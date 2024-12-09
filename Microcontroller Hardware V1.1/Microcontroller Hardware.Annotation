@@ -1,0 +1,21 @@
+[DesignatorManager]
+LogicalDesignator0=J8
+LogicalPartID0=1
+DocumentName0=MCU025B_Connectors.SchDoc
+ChannelName0=MCU025B_Connectors
+UniqueID0=\EKRUNVHE
+PhysicalDesignator0=J6
+PhysicalDesignatorLocked0=0
+LogicalDesignator1=J4
+LogicalPartID1=1
+DocumentName1=MCU025B_Connectors.SchDoc
+ChannelName1=MCU025B_Connectors
+UniqueID1=\LYJIEVHU
+PhysicalDesignator1=J2
+PhysicalDesignatorLocked1=0
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+
+
