@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MCU025A.PcbDoc   4/13/2018  8:47:08 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Signal to Bottom Signal
+ASCII RoundHoles File : MCU025A-RoundHoles.TXT
+ASCII SlotHoles File : MCU025A-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             4         PTH        0.13inch (3.37mm)
+T2      10mil (0.254mm)         +/-5mil (0.127mm)                 Round             404       PTH        59.30inch (1506.10mm)
+T3      10mil (0.254mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T4      24mil (0.6mm)                                             Slot              2         PTH        0.68inch (17.23mm)
+T5      38mil (0.965mm)                                           Round             6         PTH        5.33inch (135.32mm)
+T6      40mil (1.016mm)                                           Round             30        PTH        9.04inch (229.61mm)
+T7      40mil (1.02mm)                                            Round             80        PTH        14.80inch (375.92mm)
+T8      45mil (1.15mm)                                            Round             25        PTH        11.11inch (282.24mm)
+T9      35mil (0.9mm)                                             Round             2         NPTH       0.09inch (2.30mm)
+T10     39mil (0.991mm)                                           Round             3         NPTH       0.38inch (9.72mm)
+T11     125mil (3.175mm)                                          Round             4         NPTH       10.15inch (257.81mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              561
+
+Total Processing Time (hh:mm:ss) : 00:00:00

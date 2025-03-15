@@ -452,6 +452,74 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "All Nets",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Analog",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "FSIRX",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "FSITX",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
       }
     ],
     "meta": {
@@ -459,7 +527,184 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Analog",
+        "pattern": "ADCINC14"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "ADCINC5_P6I"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "ADCINC3_P4I"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "ADCINC1"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "ADCINA6"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "ADCINA2"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "ADCINA0"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "ADCINA1"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "ADCINA4_P2OF"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "ADCINA5"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "ADCINA8_P6OF"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "ADCINB0"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "ADCINB1"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "ADCINB3"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "ADCINB4_P4OF"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "ADCINC2"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "ADCINC4"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "PGA135_GND"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "PGA246_GND"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "GND"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "ADCINA3_P2I"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "ADCINA9_P5I"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "ADCINB2_P1I"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "ADCINC0_P3I"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "NetC26_2"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "NetC27_2"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "NetC28_2"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "NetC29_2"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "NetC30_2"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "NetC31_2"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "NetC32_1"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "NetC33_1"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "NetC34_1"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "NetC35_1"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "NetR15_2"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "NetR23_1"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "NetR24_1"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "NetR13_2"
+      },
+      {
+        "netclass": "FSIRX",
+        "pattern": "GPIO33_FSIRXCLK"
+      },
+      {
+        "netclass": "FSIRX",
+        "pattern": "GPIO12_FSIRXD0"
+      },
+      {
+        "netclass": "FSIRX",
+        "pattern": "GPIO2_FSIRXD1"
+      },
+      {
+        "netclass": "FSITX",
+        "pattern": "GPIO7_FSITXCLK"
+      },
+      {
+        "netclass": "FSITX",
+        "pattern": "GPIO6_FSITXD0"
+      },
+      {
+        "netclass": "FSITX",
+        "pattern": "GPIO25_FSITXD1"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -594,6 +839,10 @@
     [
       "e039760a-c2fc-41b5-a14f-4a36fa20d96b",
       "Current sense"
+    ],
+    [
+      "b97c4033-3e4d-4eed-9d6e-e3e54b51d869",
+      "Encoder Input"
     ]
   ],
   "text_variables": {}

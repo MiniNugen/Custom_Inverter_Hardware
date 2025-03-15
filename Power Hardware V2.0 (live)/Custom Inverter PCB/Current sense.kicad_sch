@@ -2396,17 +2396,6 @@
 		)
 		(uuid "65b4f45f-8f2a-4a7b-b0d8-9a5197064e99")
 	)
-	(label "SEN_100V"
-		(at 132.08 158.75 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "66ff4845-aead-495b-9460-3960d70c7e78")
-	)
 	(label "2_Out"
 		(at 115.57 96.52 0)
 		(fields_autoplaced yes)
@@ -2979,18 +2968,6 @@
 			(justify left)
 		)
 		(uuid "86582ef1-5aab-407a-a2cd-4794b21a7f15")
-	)
-	(hierarchical_label "SEN_100V"
-		(shape input)
-		(at 132.08 158.75 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "bd531f69-d417-440a-ac54-c3376bfbe1bc")
 	)
 	(hierarchical_label "GND"
 		(shape input)
