@@ -5,227 +5,6 @@
 	(uuid "822d3f18-f16d-4881-a6bc-af4904de46e2")
 	(paper "A4")
 	(lib_symbols
-		(symbol "100SP1T1B4M2QE:100SP1T1B4M2QE"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "S"
-				(at -2.54 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "100SP1T1B4M2QE"
-				(at -2.54 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "100SP1T1B4M2QE:SW_100SP1T1B4M2QE"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "E"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "29.68 mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "E-Switch"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "100SP1T1B4M2QE_0_0"
-				(polyline
-					(pts
-						(xy -2.54 0) (xy -5.08 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 0) (xy 2.794 2.1336)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.54 2.54)
-					(radius 0.3302)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.54 -2.54)
-					(radius 0.3302)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 2.54) (xy 2.921 2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 -2.54) (xy 2.921 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -7.62 0 0)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 2.54 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 -2.54 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "1714968:1714968"
 			(pin_names
 				(offset 1.016)
@@ -3127,6 +2906,16 @@
 		)
 		(uuid "5f48d0a6-9f36-4584-8acf-3fb27893d300")
 	)
+	(text "Screw terminals to external switches\n"
+		(exclude_from_sim no)
+		(at 84.836 93.472 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "63eddbdb-a9ea-4510-a8a5-95bf41cf9837")
+	)
 	(text "FUSE"
 		(exclude_from_sim no)
 		(at 56.134 14.224 0)
@@ -3263,14 +3052,6 @@
 		(color 0 0 0 0)
 		(uuid "f59416de-c4ac-4dac-a9ee-393eb54f70b4")
 	)
-	(no_connect
-		(at 87.63 118.11)
-		(uuid "3b4c53ad-e343-4fd1-8c65-979ef981c3cd")
-	)
-	(no_connect
-		(at 97.79 67.31)
-		(uuid "52b46b19-2ae8-4934-be23-51aa5ac0cb1e")
-	)
 	(wire
 		(pts
 			(xy 81.28 22.86) (xy 91.44 22.86)
@@ -3283,16 +3064,6 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 64.77) (xy 82.55 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "021d614b-ca77-4283-a97c-94b1f05b1ab1")
-	)
-	(wire
-		(pts
 			(xy 39.37 57.15) (xy 34.29 57.15)
 		)
 		(stroke
@@ -3300,6 +3071,16 @@
 			(type default)
 		)
 		(uuid "047488f0-0e47-4a1e-9a9f-520222145276")
+	)
+	(wire
+		(pts
+			(xy 85.09 71.12) (xy 90.17 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "076c4d65-dec8-453d-b1e6-8663b0426997")
 	)
 	(wire
 		(pts
@@ -3323,6 +3104,16 @@
 	)
 	(wire
 		(pts
+			(xy 90.17 71.12) (xy 90.17 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "111bcc03-f729-4277-863d-7c55a365df5e")
+	)
+	(wire
+		(pts
 			(xy 143.51 152.4) (xy 143.51 154.94)
 		)
 		(stroke
@@ -3330,6 +3121,16 @@
 			(type default)
 		)
 		(uuid "125df91e-2287-4bea-af2f-73f7491c5f7b")
+	)
+	(wire
+		(pts
+			(xy 72.39 115.57) (xy 72.39 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13e62707-3695-41c8-9113-ad0c0bb3f037")
 	)
 	(wire
 		(pts
@@ -3363,6 +3164,16 @@
 	)
 	(wire
 		(pts
+			(xy 87.63 109.22) (xy 87.63 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20c69a9c-ad6f-4f77-bdf0-42deb8486e0b")
+	)
+	(wire
+		(pts
 			(xy 30.48 128.27) (xy 31.75 128.27)
 		)
 		(stroke
@@ -3380,6 +3191,16 @@
 			(type default)
 		)
 		(uuid "2cfa0bfc-a059-466f-a6d4-896b82f288ec")
+	)
+	(wire
+		(pts
+			(xy 66.04 71.12) (xy 82.55 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d712146-1fbb-4723-9bed-5970ecb3fad1")
 	)
 	(wire
 		(pts
@@ -3423,6 +3244,16 @@
 	)
 	(wire
 		(pts
+			(xy 66.04 64.77) (xy 66.04 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38925b4f-ffad-4c64-94b7-f68f1404e09f")
+	)
+	(wire
+		(pts
 			(xy 245.11 36.83) (xy 245.11 48.26)
 		)
 		(stroke
@@ -3450,6 +3281,16 @@
 			(type default)
 		)
 		(uuid "40cb9a76-98a9-46d2-a72b-25c47c15c1e3")
+	)
+	(wire
+		(pts
+			(xy 72.39 109.22) (xy 80.01 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c9b1dfa-d1ca-4712-8b6f-612f9d0d2283")
 	)
 	(wire
 		(pts
@@ -3500,6 +3341,16 @@
 			(type default)
 		)
 		(uuid "74c31db1-2b03-4d90-94be-b7f45a3ea1ed")
+	)
+	(wire
+		(pts
+			(xy 90.17 62.23) (xy 113.03 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74e1a63b-ed0b-4e41-b726-42617215bbc8")
 	)
 	(wire
 		(pts
@@ -3663,16 +3514,6 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 62.23) (xy 113.03 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ab417579-d7a0-4d24-ad5e-930523aa5299")
-	)
-	(wire
-		(pts
 			(xy 87.63 113.03) (xy 99.06 113.03)
 		)
 		(stroke
@@ -3830,6 +3671,16 @@
 			(type default)
 		)
 		(uuid "d611dbe3-3761-47b2-beef-4b62ee902cae")
+	)
+	(wire
+		(pts
+			(xy 82.55 109.22) (xy 87.63 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da2bdc36-8581-47f4-b0e1-a6fefabb4ea3")
 	)
 	(wire
 		(pts
@@ -5456,118 +5307,6 @@
 		)
 	)
 	(symbol
-		(lib_id "100SP1T1B4M2QE:100SP1T1B4M2QE")
-		(at 90.17 64.77 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "351b6f36-4ffb-435b-83f8-528c528003b0")
-		(property "Reference" "S2"
-			(at 90.17 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100SP1T1B4M2QE"
-			(at 90.17 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "100SP1T1B4M2QE:SW_100SP1T1B4M2QE"
-			(at 90.17 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 90.17 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 90.17 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "E"
-			(at 90.17 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 90.17 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "29.68 mm"
-			(at 90.17 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "E-Switch"
-			(at 90.17 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f0688e49-1367-4a82-a014-e0633c09b1f7")
-		)
-		(pin "3"
-			(uuid "c0e04038-7b5a-4bb4-ba81-c79ec65e2122")
-		)
-		(pin "2"
-			(uuid "9ce3d72d-ea3a-4bf3-9592-aaf1765ccebe")
-		)
-		(instances
-			(project "Custom Inverter PCB"
-				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/03e2b942-8425-43a4-a33a-3293cc4215cb"
-					(reference "S2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+12V")
 		(at 30.48 128.27 90)
 		(unit 1)
@@ -6356,118 +6095,6 @@
 		)
 	)
 	(symbol
-		(lib_id "100SP1T1B4M2QE:100SP1T1B4M2QE")
-		(at 80.01 115.57 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "68774b64-ea09-4c68-a786-7d7b3a501ddd")
-		(property "Reference" "S1"
-			(at 80.01 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100SP1T1B4M2QE"
-			(at 80.01 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "100SP1T1B4M2QE:SW_100SP1T1B4M2QE"
-			(at 80.01 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 80.01 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 80.01 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "E"
-			(at 80.01 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 80.01 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "29.68 mm"
-			(at 80.01 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "E-Switch"
-			(at 80.01 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2143ad87-7ed2-47a5-ad4b-b1dbd6d166db")
-		)
-		(pin "3"
-			(uuid "c3b4312a-a432-4760-a4ce-c0c7502db4ac")
-		)
-		(pin "2"
-			(uuid "783ff5a3-374b-4756-bc3d-d4a911bd7278")
-		)
-		(instances
-			(project ""
-				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/03e2b942-8425-43a4-a33a-3293cc4215cb"
-					(reference "S1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 113.03 35.56 0)
 		(unit 1)
@@ -7115,6 +6742,117 @@
 		)
 	)
 	(symbol
+		(lib_id "1714971:1714971")
+		(at 82.55 116.84 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a8bfcf8f-4507-4861-8af7-ef3e73b38037")
+		(property "Reference" "J8"
+			(at 86.36 116.2049 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1714971"
+			(at 86.36 118.7449 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "1714971:PHOENIX_1714971"
+			(at 82.55 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 82.55 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 82.55 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "26.05.2020"
+			(at 82.55 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 82.55 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "21.7mm"
+			(at 82.55 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Phoenix Contact"
+			(at 82.55 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6eae43e2-120d-453e-81a2-635d11cd1129")
+		)
+		(pin "1"
+			(uuid "d967c8c1-8c1c-4232-8e64-d57084eac66e")
+		)
+		(instances
+			(project "Custom Inverter PCB"
+				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/03e2b942-8425-43a4-a33a-3293cc4215cb"
+					(reference "J8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+12V")
 		(at 66.04 142.24 0)
 		(unit 1)
@@ -7289,6 +7027,117 @@
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/03e2b942-8425-43a4-a33a-3293cc4215cb"
 					(reference "K2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "1714971:1714971")
+		(at 85.09 78.74 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b0235c6c-1f2a-4a2c-87d0-1569e6759673")
+		(property "Reference" "J7"
+			(at 88.9 78.1049 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1714971"
+			(at 88.9 80.6449 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "1714971:PHOENIX_1714971"
+			(at 85.09 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 85.09 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 85.09 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "26.05.2020"
+			(at 85.09 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 85.09 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "21.7mm"
+			(at 85.09 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Phoenix Contact"
+			(at 85.09 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "45bd3f4f-e8d8-4cb5-b192-0d2cbc998586")
+		)
+		(pin "1"
+			(uuid "08f3fe66-4009-408e-bd6f-8bf890a66a1f")
+		)
+		(instances
+			(project "Custom Inverter PCB"
+				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/03e2b942-8425-43a4-a33a-3293cc4215cb"
+					(reference "J7")
 					(unit 1)
 				)
 			)
