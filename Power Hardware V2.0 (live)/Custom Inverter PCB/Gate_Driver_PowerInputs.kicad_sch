@@ -2856,9 +2856,9 @@
 		)
 		(uuid f5256c8c-68f0-4867-a551-39522d83dfb2)
 	)
-	(text "100VDC CONTROL RELAY\n"
+	(text "100VDC CONTROL RELAY + SWITCH\n"
 		(exclude_from_sim no)
-		(at 64.77 56.642 0)
+		(at 69.596 56.642 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2926,7 +2926,7 @@
 		)
 		(uuid "6afd0c9d-a029-43d1-b5ce-1893dc3f9604")
 	)
-	(text "12VDC CONTROL RELAY\n"
+	(text "12VDC CONTROL SWITCH\n\n"
 		(exclude_from_sim no)
 		(at 68.58 98.806 0)
 		(effects
@@ -5887,7 +5887,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0463030.ER:FUSE_0463_LTF"
+		(property "Footprint" "0463030ERFUSE:FUSE_0463_LTF-L"
 			(at 64.77 22.86 0)
 			(effects
 				(font

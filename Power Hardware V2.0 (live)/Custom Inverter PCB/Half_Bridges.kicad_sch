@@ -3277,7 +3277,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0463030.ER:FUSE_0463_LTF"
+		(property "Footprint" "0463030ERFUSE:FUSE_0463_LTF-L"
 			(at 78.74 62.23 0)
 			(effects
 				(font
@@ -3987,7 +3987,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0463030.ER:FUSE_0463_LTF"
+		(property "Footprint" "0463030ERFUSE:FUSE_0463_LTF-L"
 			(at 168.91 62.23 0)
 			(effects
 				(font
@@ -6172,7 +6172,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0463030.ER:FUSE_0463_LTF"
+		(property "Footprint" "0463030ERFUSE:FUSE_0463_LTF-L"
 			(at 261.62 62.23 0)
 			(effects
 				(font

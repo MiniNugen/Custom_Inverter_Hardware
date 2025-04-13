@@ -4538,7 +4538,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Current Sense IC TLI4971A:PG-TISON-8-5"
+		(property "Footprint" "TLI4971A:PG-TISON-8-5"
 			(at 130.81 59.69 0)
 			(effects
 				(font
@@ -4634,7 +4634,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Current Sense IC TLI4971A:PG-TISON-8-5"
+		(property "Footprint" "TLI4971A:PG-TISON-8-5"
 			(at 132.08 87.63 0)
 			(effects
 				(font
@@ -5101,7 +5101,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Current Sense IC TLI4971A:PG-TISON-8-5"
+		(property "Footprint" "TLI4971A:PG-TISON-8-5"
 			(at 133.35 114.3 0)
 			(effects
 				(font
