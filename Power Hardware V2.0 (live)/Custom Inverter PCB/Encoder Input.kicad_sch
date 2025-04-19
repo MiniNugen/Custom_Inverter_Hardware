@@ -505,9 +505,9 @@
 		)
 		(uuid dc3a62b4-56e7-47e0-9ba0-cf3eb5d78f24)
 	)
-	(text "SIN-COS Connector\n"
+	(text "Connector To Resolver\n"
 		(exclude_from_sim no)
-		(at 30.226 43.18 0)
+		(at 31.496 43.18 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -517,7 +517,7 @@
 	)
 	(text "-Changed 3.3V regulator to a higher power unit for the sin-cos circuit (from 500mA to 3A)\n-Fixed flipped MOTA,B,C connection to Output Terminal\n- Current Sense IC setup\n- Fuses for Phase current outputs\n\nIdea for SIN-COS reading: Use differential opamps to subtract the DC Offset then summing amp to add the 1.65V"
 		(exclude_from_sim no)
-		(at 72.898 86.868 0)
+		(at 82.042 108.966 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -525,9 +525,9 @@
 		)
 		(uuid "9c3f51d9-4f61-46b6-89f9-a94b56820dff")
 	)
-	(text "Interface\n"
+	(text "Connection to MCU"
 		(exclude_from_sim no)
-		(at 25.654 21.844 0)
+		(at 30.734 21.844 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -625,6 +625,16 @@
 		)
 		(uuid "090d056a-ba6d-4df9-aeba-9237d0c952af")
 	)
+	(label "SIN_IN"
+		(at 78.74 66.04 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2ae523dc-c02e-4a89-9a10-3621c6604627")
+	)
 	(label "COS_IN"
 		(at 39.37 55.88 180)
 		(effects
@@ -636,7 +646,7 @@
 		(uuid "6a827d7b-fdb1-4dac-8b10-95dabd7691cd")
 	)
 	(label "COS_IN"
-		(at 80.01 58.42 180)
+		(at 78.74 58.42 180)
 		(effects
 			(font
 				(size 1.27 1.27)

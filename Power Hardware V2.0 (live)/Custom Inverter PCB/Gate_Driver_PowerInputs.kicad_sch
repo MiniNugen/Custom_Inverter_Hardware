@@ -2866,7 +2866,7 @@
 		)
 		(uuid "2660c6d0-97a6-46cf-ad9b-2fd0b8ca4aa0")
 	)
-	(text "120V VAC OUT"
+	(text "Motor Output\n"
 		(exclude_from_sim no)
 		(at 255.524 77.216 0)
 		(effects
