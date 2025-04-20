@@ -5395,7 +5395,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "EEVFK2A331M"
+		(property "Value" "330 µF"
 			(at 63.5 26.924 90)
 			(effects
 				(font
@@ -5414,7 +5414,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"
 			(at 81.28 25.4 0)
 			(effects
 				(font
@@ -5472,7 +5472,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "EEVFK2A331M"
 			(at 81.28 25.4 0)
 			(effects
 				(font
@@ -5883,7 +5883,7 @@
 				)
 			)
 		)
-		(property "Value" "0463030.ER"
+		(property "Value" "250V 30A"
 			(at 69.85 19.05 0)
 			(effects
 				(font
@@ -5891,7 +5891,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0463030ERFUSE:FUSE_0463_LTF-L"
+		(property "Footprint" "0463030_ER:FUSE_0463_LTF-M"
 			(at 64.77 22.86 0)
 			(effects
 				(font
@@ -6472,7 +6472,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1714968:PHOENIX_1714968"
+		(property "Footprint" "PHOENIX_1714968:PHOENIX_1714968"
 			(at 265.43 90.17 0)
 			(effects
 				(font
@@ -7686,7 +7686,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "EEVFK2A331M"
+		(property "Value" "330 µF"
 			(at 95.25 27.3665 90)
 			(effects
 				(font
@@ -7705,7 +7705,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"
 			(at 91.44 25.4 0)
 			(effects
 				(font
@@ -7763,7 +7763,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "EEVFK2A331M"
 			(at 91.44 25.4 0)
 			(effects
 				(font

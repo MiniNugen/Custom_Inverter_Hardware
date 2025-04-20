@@ -21,4 +21,5 @@
   (lib (name "HCPL-181-06Be")(type "KiCad")(uri "C:/Users/minhp/OneDrive - University of Windsor/Documents/GitHub/Custom_Inverter_Hardware/Power Hardware V2.0 (live)/EDA Models/HCPL_181_06BE/KiCADv6/HCPL-181-06Be.pretty")(options "")(descr ""))
   (lib (name "BAV20WS-TP")(type "KiCad")(uri "C:/Users/minhp/OneDrive - University of Windsor/Documents/GitHub/Custom_Inverter_Hardware/Power Hardware V2.0 (live)/EDA Models/BAV20WS_TP/KiCADv6/BAV20WS-TP.pretty")(options "")(descr ""))
   (lib (name "LD1085D2M33R")(type "KiCad")(uri "C:/Users/minhp/OneDrive - University of Windsor/Documents/GitHub/Custom_Inverter_Hardware/Power Hardware V2.0 (live)/EDA Models/LD1085D2M33R/KiCADv6/LD1085D2M33R.pretty")(options "")(descr ""))
+  (lib (name "10897202")(type "KiCad")(uri "C:/Users/minhp/OneDrive - University of Windsor/Documents/GitHub/Custom_Inverter_Hardware/Power Hardware V2.0 (live)/EDA Models/10897202/10897202.pretty")(options "")(descr ""))
 )
