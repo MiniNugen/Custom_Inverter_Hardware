@@ -5102,7 +5102,7 @@
 				)
 			)
 		)
-		(property "Value" "SSQ-110-03-G-D"
+		(property "Value" "0010897202"
 			(at 71.12 147.32 0)
 			(effects
 				(font
@@ -5110,7 +5110,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SSQ_110_03_G_D (1):SAMTEC_SSQ-110-03-G-D"
+		(property "Footprint" ""
 			(at 71.12 165.1 0)
 			(effects
 				(font
@@ -5158,7 +5158,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Samtec"
+		(property "MANUFACTURER" "Molex"
 			(at 71.12 165.1 0)
 			(effects
 				(font
@@ -5168,7 +5168,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "0010897202"
 			(at 71.12 165.1 0)
 			(effects
 				(font
@@ -6007,7 +6007,7 @@
 				)
 			)
 		)
-		(property "Value" "SSQ-110-03-G-D"
+		(property "Value" "0010897202"
 			(at 119.38 147.32 0)
 			(effects
 				(font
@@ -6063,7 +6063,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Samtec"
+		(property "MANUFACTURER" "Molex"
 			(at 119.38 165.1 0)
 			(effects
 				(font
@@ -6073,7 +6073,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "0010897202"
 			(at 119.38 165.1 0)
 			(effects
 				(font

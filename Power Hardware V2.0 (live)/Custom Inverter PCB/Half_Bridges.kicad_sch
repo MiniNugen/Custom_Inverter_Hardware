@@ -3281,7 +3281,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0463030ERFUSE:FUSE_0463_LTF-L"
+		(property "Footprint" "0463030_ER:FUSE_0463_LTF-M"
 			(at 78.74 62.23 0)
 			(effects
 				(font
@@ -3362,7 +3362,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CSD19532Q5B (1):TRANS_CSD19532Q5B"
+		(property "Footprint" "CSD19532Q5B:TRANS_CSD19532Q5B"
 			(at 55.88 76.2 0)
 			(effects
 				(font
@@ -3678,7 +3678,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CSD19532Q5B (1):TRANS_CSD19532Q5B"
+		(property "Footprint" "CSD19532Q5B:TRANS_CSD19532Q5B"
 			(at 229.87 49.53 0)
 			(effects
 				(font
@@ -3991,7 +3991,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0463030ERFUSE:FUSE_0463_LTF-L"
+		(property "Footprint" "0463030_ER:FUSE_0463_LTF-M"
 			(at 168.91 62.23 0)
 			(effects
 				(font
@@ -4303,7 +4303,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CSD19532Q5B (1):TRANS_CSD19532Q5B"
+		(property "Footprint" "CSD19532Q5B:TRANS_CSD19532Q5B"
 			(at 229.87 76.2 0)
 			(effects
 				(font
@@ -4701,7 +4701,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CSD19532Q5B (1):TRANS_CSD19532Q5B"
+		(property "Footprint" "CSD19532Q5B:TRANS_CSD19532Q5B"
 			(at 55.88 49.53 0)
 			(effects
 				(font
@@ -5323,7 +5323,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CSD19532Q5B (1):TRANS_CSD19532Q5B"
+		(property "Footprint" "CSD19532Q5B:TRANS_CSD19532Q5B"
 			(at 143.51 76.2 0)
 			(effects
 				(font
@@ -6056,7 +6056,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CSD19532Q5B (1):TRANS_CSD19532Q5B"
+		(property "Footprint" "CSD19532Q5B:TRANS_CSD19532Q5B"
 			(at 143.51 49.53 0)
 			(effects
 				(font
@@ -6176,7 +6176,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0463030ERFUSE:FUSE_0463_LTF-L"
+		(property "Footprint" "0463030_ER:FUSE_0463_LTF-M"
 			(at 261.62 62.23 0)
 			(effects
 				(font

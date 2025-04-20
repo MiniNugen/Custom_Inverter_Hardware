@@ -6629,7 +6629,7 @@
 				)
 			)
 		)
-		(property "Footprint" "D2PAK/A_STM"
+		(property "Footprint" "LD1085D2M33R:D2PAK&slash_A_STM"
 			(at 133.35 147.32 0)
 			(effects
 				(font
