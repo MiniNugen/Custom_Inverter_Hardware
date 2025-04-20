@@ -4,6 +4,10 @@
 	(generator_version "9.0")
 	(uuid "f62ca4b1-8451-495d-9cf6-e6689c09f97c")
 	(paper "A4")
+	(title_block
+		(date "2025-04-19")
+		(rev "1")
+	)
 	(lib_symbols
 		(symbol "LAUNCHXL-F280049C:LAUNCHXL-F280049C"
 			(pin_names

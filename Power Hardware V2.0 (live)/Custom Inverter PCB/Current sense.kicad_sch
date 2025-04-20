@@ -4,6 +4,10 @@
 	(generator_version "9.0")
 	(uuid "83267777-a97a-459c-93ba-25ccab6123a5")
 	(paper "A4")
+	(title_block
+		(date "2025-04-19")
+		(rev "1")
+	)
 	(lib_symbols
 		(symbol "Current Sense TLI4971A:TLI4971A120T5UE0001XUMA1"
 			(pin_names

@@ -4,6 +4,10 @@
 	(generator_version "9.0")
 	(uuid "3e1046b6-e265-4cdd-8404-c358cfc105fe")
 	(paper "A4")
+	(title_block
+		(date "2025-04-19")
+		(rev "1")
+	)
 	(lib_symbols)
 	(wire
 		(pts
