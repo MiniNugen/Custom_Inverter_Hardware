@@ -829,7 +829,7 @@
 		)
 		(uuid "f340a225-6f5e-44ad-8c57-c1c092dc501c")
 	)
-	(label "INLC"
+	(label "INLB"
 		(at 264.16 62.23 180)
 		(effects
 			(font
@@ -839,7 +839,7 @@
 		)
 		(uuid "f761ba14-0adf-4bdd-ba58-6f772cca7698")
 	)
-	(label "INLC"
+	(label "INLB"
 		(at 24.13 55.88 0)
 		(effects
 			(font

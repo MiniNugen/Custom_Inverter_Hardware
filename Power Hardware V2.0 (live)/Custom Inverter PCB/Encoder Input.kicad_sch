@@ -2140,6 +2140,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "ERA-6AEB103V"
+			(at 215.9 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "661bc693-0789-404c-bee8-2680680de69e")
 		)
@@ -2202,6 +2211,15 @@
 			)
 		)
 		(property "Description" "ERA-6AEB103V"
+			(at 195.58 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "ERA-6AEB103V"
 			(at 195.58 85.09 0)
 			(effects
 				(font
@@ -2431,6 +2449,15 @@
 			)
 		)
 		(property "Description" "ERA-6AEB103V"
+			(at 119.38 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "ERA-6AEB103V"
 			(at 119.38 83.82 0)
 			(effects
 				(font

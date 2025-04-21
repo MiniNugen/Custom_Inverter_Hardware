@@ -1978,7 +1978,7 @@
 		)
 		(uuid "a7ca383c-c450-4e83-985d-02b3898c2340")
 	)
-	(label "IB+"
+	(label "IC+"
 		(at 85.09 114.3 0)
 		(effects
 			(font
@@ -1998,7 +1998,7 @@
 		)
 		(uuid "c1fd78ad-100b-4d49-ac1b-42be7cb80cbf")
 	)
-	(label "IB-"
+	(label "IC-"
 		(at 85.09 111.76 0)
 		(effects
 			(font
@@ -4542,7 +4542,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TLI4971A:PG-TISON-8-5"
+		(property "Footprint" "TLI4971A:IC_TLI4971A050T5UE0001XUMA1"
 			(at 130.81 59.69 0)
 			(effects
 				(font
@@ -4638,7 +4638,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TLI4971A:PG-TISON-8-5"
+		(property "Footprint" "TLI4971A:IC_TLI4971A050T5UE0001XUMA1"
 			(at 132.08 87.63 0)
 			(effects
 				(font
@@ -5105,7 +5105,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TLI4971A:PG-TISON-8-5"
+		(property "Footprint" "TLI4971A:IC_TLI4971A050T5UE0001XUMA1"
 			(at 133.35 114.3 0)
 			(effects
 				(font
