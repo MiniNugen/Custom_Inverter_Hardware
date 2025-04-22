@@ -5124,7 +5124,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CSD19532Q5B:TRANS_CSD19532Q5B"
 			(at 55.88 49.53 0)
 			(effects
 				(font
