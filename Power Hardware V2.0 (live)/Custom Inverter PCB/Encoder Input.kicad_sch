@@ -1680,7 +1680,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0d32b4d0-f77a-4dc5-91aa-c76587461883")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR?"
 			(at 125.73 100.33 0)
 			(effects
 				(font
@@ -1734,6 +1734,12 @@
 					(unit 1)
 				)
 			)
+			(project "Encoder Input"
+				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -1746,7 +1752,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1a0a8c28-19bf-404a-9092-67eca755630d")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR?"
 			(at 46.99 53.34 0)
 			(effects
 				(font
@@ -1801,6 +1807,12 @@
 					(unit 1)
 				)
 			)
+			(project "Encoder Input"
+				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -1813,7 +1825,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b18c899-b92f-48a4-9215-5f323af099b5")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR?"
 			(at 195.58 99.06 0)
 			(effects
 				(font
@@ -1867,6 +1879,12 @@
 					(unit 1)
 				)
 			)
+			(project "Encoder Input"
+				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -1878,7 +1896,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2a5060c9-d78a-4ce2-a965-2c6f96097dc5")
-		(property "Reference" "R8"
+		(property "Reference" "R?"
 			(at 103.124 68.834 90)
 			(effects
 				(font
@@ -1934,6 +1952,12 @@
 					(unit 1)
 				)
 			)
+			(project "Encoder Input"
+				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -1945,7 +1969,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "30989361-8bde-44c5-b229-3b3e974b3fd5")
-		(property "Reference" "R47"
+		(property "Reference" "R?"
 			(at 220.472 76.454 90)
 			(effects
 				(font
@@ -2010,6 +2034,12 @@
 					(unit 1)
 				)
 			)
+			(project "Encoder Input"
+				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2021,7 +2051,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "373243ef-e778-4ee4-980c-b7bcb911ca82")
-		(property "Reference" "R45"
+		(property "Reference" "R?"
 			(at 108.712 76.454 90)
 			(effects
 				(font
@@ -2086,6 +2116,12 @@
 					(unit 1)
 				)
 			)
+			(project "Encoder Input"
+				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2097,7 +2133,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4d26149d-cdb9-4351-843c-acb75fdf6cc9")
-		(property "Reference" "R18"
+		(property "Reference" "R?"
 			(at 220.472 71.12 90)
 			(effects
 				(font
@@ -2162,6 +2198,12 @@
 					(unit 1)
 				)
 			)
+			(project "Encoder Input"
+				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2174,7 +2216,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52232fee-ead6-4ea0-a4c0-b4cc1ad3801d")
-		(property "Reference" "R9"
+		(property "Reference" "R?"
 			(at 198.12 83.8199 0)
 			(effects
 				(font
@@ -2241,6 +2283,12 @@
 					(unit 1)
 				)
 			)
+			(project "Encoder Input"
+				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2253,7 +2301,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "55d1af61-0306-4cb7-bc4a-bb39a92bb8db")
-		(property "Reference" "J6"
+		(property "Reference" "J?"
 			(at 27.305 45.72 0)
 			(effects
 				(font
@@ -2324,6 +2372,12 @@
 					(unit 1)
 				)
 			)
+			(project "Encoder Input"
+				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
+					(reference "J?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2335,7 +2389,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "821f503d-f046-4302-8a4a-d3766d1b2d79")
-		(property "Reference" "R48"
+		(property "Reference" "R?"
 			(at 199.644 71.12 90)
 			(effects
 				(font
@@ -2400,6 +2454,12 @@
 					(unit 1)
 				)
 			)
+			(project "Encoder Input"
+				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2412,7 +2472,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b663b07c-6445-4130-96fc-51f68d8fdcfb")
-		(property "Reference" "R5"
+		(property "Reference" "R?"
 			(at 121.92 82.5499 0)
 			(effects
 				(font
@@ -2479,6 +2539,12 @@
 					(unit 1)
 				)
 			)
+			(project "Encoder Input"
+				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2490,7 +2556,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c2f492e9-572c-4dcb-9c65-a777a200d7f2")
-		(property "Reference" "R46"
+		(property "Reference" "R?"
 			(at 115.316 66.04 90)
 			(effects
 				(font
@@ -2555,6 +2621,12 @@
 					(unit 1)
 				)
 			)
+			(project "Encoder Input"
+				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2567,7 +2639,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c3fa201b-f859-4ce0-a1f9-9d0060f0f40d")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR?"
 			(at 46.99 31.75 0)
 			(effects
 				(font
@@ -2622,6 +2694,12 @@
 					(unit 1)
 				)
 			)
+			(project "Encoder Input"
+				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2633,7 +2711,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c5f81348-6c41-43f7-a033-ab907d83c481")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR?"
 			(at 90.17 71.12 0)
 			(effects
 				(font
@@ -2687,6 +2765,12 @@
 					(unit 1)
 				)
 			)
+			(project "Encoder Input"
+				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2699,7 +2783,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ccb0e28f-7cba-4cde-92e0-f682e7cf12c9")
-		(property "Reference" "U6"
+		(property "Reference" "U?"
 			(at 158.75 57.15 0)
 			(effects
 				(font
@@ -2775,6 +2859,12 @@
 					(unit 1)
 				)
 			)
+			(project "Encoder Input"
+				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2787,7 +2877,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d54d656e-fda0-45e4-9ca0-41dcc9ed19d1")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR?"
 			(at 210.82 63.5 0)
 			(effects
 				(font
@@ -2842,6 +2932,12 @@
 					(unit 1)
 				)
 			)
+			(project "Encoder Input"
+				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2853,7 +2949,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d705bd47-bdc4-498a-887b-087a8b6396a9")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR?"
 			(at 219.71 72.39 0)
 			(effects
 				(font
@@ -2907,6 +3003,12 @@
 					(unit 1)
 				)
 			)
+			(project "Encoder Input"
+				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2919,7 +3021,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f3fdfbf5-e0fa-400f-933d-8ae24188d09d")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR?"
 			(at 36.83 50.8 0)
 			(effects
 				(font
@@ -2974,6 +3076,12 @@
 					(unit 1)
 				)
 			)
+			(project "Encoder Input"
+				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2986,7 +3094,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa30ea32-898a-41a4-82c5-193eb207016a")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR?"
 			(at 36.83 27.94 0)
 			(effects
 				(font
@@ -3041,6 +3149,12 @@
 					(unit 1)
 				)
 			)
+			(project "Encoder Input"
+				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3053,7 +3167,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fadcb6c9-4a64-4fbc-b67e-6c9115693a37")
-		(property "Reference" "C15"
+		(property "Reference" "C?"
 			(at 198.12 55.88 90)
 			(effects
 				(font
@@ -3118,6 +3232,12 @@
 					(unit 1)
 				)
 			)
+			(project "Encoder Input"
+				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3130,7 +3250,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb62f68d-6dbd-491b-af91-1bcb2853154e")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR?"
 			(at 191.77 63.5 0)
 			(effects
 				(font
@@ -3184,6 +3304,18 @@
 					(unit 1)
 				)
 			)
+			(project "Encoder Input"
+				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
 )
