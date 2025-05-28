@@ -6267,7 +6267,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ug/spruii7b/spruii7b.pdf?ts=1748422871760"
 			(at 135.89 78.74 0)
 			(effects
 				(font
@@ -6276,7 +6276,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "LAUNCHPAD TMS320F280049C EVAL BD"
 			(at 135.89 78.74 0)
 			(effects
 				(font
@@ -7191,7 +7191,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ug/spruii7b/spruii7b.pdf?ts=1748422871760"
 			(at 219.71 55.88 0)
 			(effects
 				(font
@@ -7200,7 +7200,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "LAUNCHPAD TMS320F280049C EVAL BD"
 			(at 219.71 55.88 0)
 			(effects
 				(font

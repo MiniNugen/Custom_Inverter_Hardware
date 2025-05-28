@@ -3723,7 +3723,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1086/463_Series.pdf"
 			(at 78.74 62.23 0)
 			(effects
 				(font
@@ -3795,7 +3795,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/csd19532q5b.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1748435116851&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Fcsd19532q5b"
 			(at 55.88 76.2 0)
 			(effects
 				(font
@@ -3804,7 +3804,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "MOSFET N-CH 100V 100A 8VSON"
 			(at 55.88 76.2 0)
 			(effects
 				(font
@@ -4111,7 +4111,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcsd19532q5b"
 			(at 229.87 49.53 0)
 			(effects
 				(font
@@ -4120,7 +4120,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "MOSFET N-CH 100V 100A 8VSON"
 			(at 229.87 49.53 0)
 			(effects
 				(font
@@ -4434,7 +4434,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1086/463_Series.pdf"
 			(at 168.91 62.23 0)
 			(effects
 				(font
@@ -4736,7 +4736,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcsd19532q5b"
 			(at 229.87 76.2 0)
 			(effects
 				(font
@@ -4745,7 +4745,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "MOSFET N-CH 100V 100A 8VSON"
 			(at 229.87 76.2 0)
 			(effects
 				(font
@@ -5134,7 +5134,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/csd19532q5b.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1748435116851&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Fcsd19532q5b"
 			(at 55.88 49.53 0)
 			(effects
 				(font
@@ -5143,7 +5143,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "MOSFET N-CH 100V 100A 8VSON"
 			(at 55.88 49.53 0)
 			(effects
 				(font
@@ -5756,7 +5756,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/csd19532q5b.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1748435116851&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Fcsd19532q5b"
 			(at 143.51 76.2 0)
 			(effects
 				(font
@@ -5765,7 +5765,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "MOSFET N-CH 100V 100A 8VSON"
 			(at 143.51 76.2 0)
 			(effects
 				(font
@@ -6489,7 +6489,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/csd19532q5b.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1748435116851&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Fcsd19532q5b"
 			(at 143.51 49.53 0)
 			(effects
 				(font
@@ -6498,7 +6498,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "MOSFET N-CH 100V 100A 8VSON"
 			(at 143.51 49.53 0)
 			(effects
 				(font
@@ -6609,7 +6609,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "0463030.ER"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1086/463_Series.pdf"
 			(at 261.62 62.23 0)
 			(effects
 				(font

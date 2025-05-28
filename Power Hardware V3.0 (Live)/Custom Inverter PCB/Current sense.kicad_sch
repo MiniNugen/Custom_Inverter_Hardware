@@ -4552,7 +4552,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "TLI4971A050T5E0001XUMA1"
+		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-TLI4971_25_50_75_120-DataSheet-v01_20-EN.pdf?fileId=5546d462700c0ae6017034d731621b09"
 			(at 130.81 59.69 0)
 			(effects
 				(font
@@ -4562,7 +4562,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SENSOR CURRENT HALL 50A 8TISON"
 			(at 130.81 59.69 0)
 			(effects
 				(font
@@ -4571,7 +4571,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "TLI4971A050T5E0001XUMA1"
 			(at 130.81 59.69 0)
 			(effects
 				(font
@@ -4648,7 +4648,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "TLI4971A050T5E0001XUMA1"
+		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-TLI4971_25_50_75_120-DataSheet-v01_20-EN.pdf?fileId=5546d462700c0ae6017034d731621b09"
 			(at 132.08 87.63 0)
 			(effects
 				(font
@@ -4658,7 +4658,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SENSOR CURRENT HALL 50A 8TISON"
 			(at 132.08 87.63 0)
 			(effects
 				(font
@@ -5115,7 +5115,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "TLI4971A050T5E0001XUMA1"
+		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-TLI4971_25_50_75_120-DataSheet-v01_20-EN.pdf?fileId=5546d462700c0ae6017034d731621b09"
 			(at 133.35 114.3 0)
 			(effects
 				(font
@@ -5125,7 +5125,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SENSOR CURRENT HALL 50A 8TISON"
 			(at 133.35 114.3 0)
 			(effects
 				(font

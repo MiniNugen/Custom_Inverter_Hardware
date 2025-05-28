@@ -2809,7 +2809,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "OP292GSZ-REEL"
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/OP292_492.pdf"
 			(at 128.27 67.31 0)
 			(effects
 				(font
@@ -2819,7 +2819,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC OPAMP GP 2 CIRCUIT 8SOIC"
+			(at 128.27 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "OP292GSZ-REEL"
 			(at 128.27 67.31 0)
 			(effects
 				(font
