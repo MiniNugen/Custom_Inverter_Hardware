@@ -114,7 +114,6 @@
 			(psnegative no)
 			(psa4output no)
 			(plot_black_and_white yes)
-			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(plotpadnumbers no)
 			(hidednponfab no)
@@ -26006,16 +26005,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "f8514a75-0d13-42de-8808-14bf0ad864cd")
-	)
-	(gr_line
-		(start 93.8 17.8)
-		(end 93.8 31.4)
-		(stroke
-			(width 4)
-			(type dash)
-		)
-		(layer "Margin")
-		(uuid "c710630e-87cf-4fcf-a260-efed3c2f730d")
 	)
 	(gr_text "GND"
 		(at 38.4 53.8 270)

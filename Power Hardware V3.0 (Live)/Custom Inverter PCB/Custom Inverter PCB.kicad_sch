@@ -51,16 +51,6 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 92.71) (xy 205.74 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "24d1c028-fd74-49cc-bb82-143838135e41")
-	)
-	(wire
-		(pts
 			(xy 250.19 124.46) (xy 264.16 124.46)
 		)
 		(stroke
@@ -128,16 +118,6 @@
 			(type default)
 		)
 		(uuid "3d5011dd-3b57-4e3a-931f-54d68d8365db")
-	)
-	(wire
-		(pts
-			(xy 215.9 92.71) (xy 205.74 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3f225442-b2f8-4573-99d5-eae736e83bcd")
 	)
 	(wire
 		(pts
@@ -609,6 +589,16 @@
 		)
 		(uuid "07b56982-c0fc-4b48-b791-bd819cfbbfb2")
 	)
+	(label "+3.3VDC"
+		(at 106.68 128.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "19c7f72c-c3c1-42a6-9df4-5a9fb4145265")
+	)
 	(label "MOTB"
 		(at 147.32 71.12 180)
 		(effects
@@ -628,6 +618,16 @@
 			(justify left bottom)
 		)
 		(uuid "26898649-e1db-4896-ae45-655572342a8f")
+	)
+	(label "+12VDC"
+		(at 106.68 138.43 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2de9fee2-8469-40c5-8879-0d9b9e8fe823")
 	)
 	(label "INLA"
 		(at 264.16 55.88 180)
@@ -669,6 +669,16 @@
 		)
 		(uuid "46d3f797-23d5-4b51-bde4-9e398c9e75b0")
 	)
+	(label "+5V"
+		(at 106.68 133.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "46ed56fc-1207-4144-9abf-48ee2099890d")
+	)
 	(label "SHC"
 		(at 83.82 49.53 0)
 		(effects
@@ -698,16 +708,6 @@
 			(justify left bottom)
 		)
 		(uuid "51c3419a-c811-459e-a3e2-065f130d6543")
-	)
-	(label "+5V"
-		(at 205.74 92.71 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5c46af79-193d-4742-a3cc-5d4fdf070d4f")
 	)
 	(label "SHB"
 		(at 83.82 40.64 0)
@@ -878,6 +878,36 @@
 			(justify right bottom)
 		)
 		(uuid "df82fe0e-1bb7-4685-acf6-18874e158a9e")
+	)
+	(label "+100VDC"
+		(at 67.31 130.81 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e4d7c631-4f8f-4def-9866-36e939d29dac")
+	)
+	(label "+5V"
+		(at 205.74 120.65 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "edb3542f-1b22-4ece-84e8-c2af9581a523")
+	)
+	(label "GND"
+		(at 67.31 135.89 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "efbf8d64-25d6-46cd-a68b-dfce21c3f653")
 	)
 	(label "INHB"
 		(at 264.16 59.69 180)
@@ -1379,6 +1409,98 @@
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 67.31 120.65)
+		(size 39.37 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "307b2ae8-2aa0-44b1-9267-420e6d92e26f")
+		(property "Sheetname" "Power Converters"
+			(at 67.31 119.9384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_converters_sch.kicad_sch"
+			(at 67.31 163.1446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "+3.3VDC" output
+			(at 106.68 128.27 0)
+			(uuid "a782d53c-f43b-4693-b0d5-c92b8231fde2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "+5VDC" output
+			(at 106.68 133.35 0)
+			(uuid "106c83d4-ea72-42a9-ac6e-c79de8c022ae")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "+12VDC" output
+			(at 106.68 138.43 0)
+			(uuid "25a729cf-3143-44d4-b8f5-a3841e66835d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "+100VDC" input
+			(at 67.31 130.81 180)
+			(uuid "5f86b315-494c-48c9-944e-76cc4e913b4c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GND" input
+			(at 67.31 135.89 180)
+			(uuid "804df2cb-cb7d-4b77-ab7a-89c891f9cbf4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Custom Inverter PCB"
+				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe"
+					(page "7")
 				)
 			)
 		)

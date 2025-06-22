@@ -108,6 +108,7 @@
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
         "text_height": "warning",
+        "text_on_edge_cuts": "error",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -144,10 +145,11 @@
       },
       "teardrop_options": [
         {
-          "td_onpadsmd": true,
+          "td_onpthpad": true,
           "td_onroundshapesonly": false,
+          "td_onsmdpad": true,
           "td_ontrackend": false,
-          "td_onviapad": true
+          "td_onvia": true
         }
       ],
       "teardrop_parameters": [
@@ -741,6 +743,10 @@
     [
       "b97c4033-3e4d-4eed-9d6e-e3e54b51d869",
       "Encoder Input"
+    ],
+    [
+      "307b2ae8-2aa0-44b1-9267-420e6d92e26f",
+      "Power Converters"
     ]
   ],
   "text_variables": {}

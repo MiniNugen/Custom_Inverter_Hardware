@@ -29,6 +29,7 @@
       "zones": true
     },
     "visible_items": [
+      "ratsnest",
       "grid",
       "shapes"
     ],
