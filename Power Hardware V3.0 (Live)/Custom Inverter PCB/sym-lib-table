@@ -6,4 +6,5 @@
   (lib (name "LM5164DDAT")(type "KiCad")(uri "C:/Users/colli/OneDrive/Documents/GitHub/Custom_Inverter_Hardware/Power Hardware V3.0 (Live)/EDA Models/LM5164DDAT/LM5164DDAT.kicad_sym")(options "")(descr ""))
   (lib (name "2025-06-22_17-53-02")(type "KiCad")(uri "C:/Users/colli/OneDrive/Documents/GitHub/Custom_Inverter_Hardware/Power Hardware V3.0 (Live)/EDA Models/SDR1006_680KL/2025-06-22_17-53-02.kicad_sym")(options "")(descr ""))
   (lib (name "2025-06-22_18-08-57")(type "KiCad")(uri "C:/Users/colli/OneDrive/Documents/GitHub/Custom_Inverter_Hardware/Power Hardware V3.0 (Live)/EDA Models/470531000/2025-06-22_18-08-57.kicad_sym")(options "")(descr ""))
+  (lib (name "PHOENIX_1990041")(type "KiCad")(uri "D:/Github/Custom_Inverter_Hardware/Power Hardware V3.0 (Live)/EDA Models/1990041/1990041.kicad_sym")(options "")(descr ""))
 )

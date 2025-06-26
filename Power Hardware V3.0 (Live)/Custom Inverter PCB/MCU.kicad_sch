@@ -5074,10 +5074,6 @@
 		)
 		(uuid "fedcbdb2-65c6-488a-9d83-745e81adc867")
 	)
-	(no_connect
-		(at 254 35.56)
-		(uuid "bc1f6cc0-a90c-435e-962c-197458356fce")
-	)
 	(wire
 		(pts
 			(xy 30.48 31.75) (xy 40.64 31.75)
@@ -5150,7 +5146,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 41.91) (xy 33.02 41.91)
+			(xy 30.48 44.45) (xy 33.02 44.45)
 		)
 		(stroke
 			(width 0)
@@ -5247,6 +5243,16 @@
 			(type default)
 		)
 		(uuid "65f68464-5e7e-4a19-aa1c-7a923652abde")
+	)
+	(wire
+		(pts
+			(xy 254 35.56) (xy 250.19 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6dcadeb1-95f4-4470-9f7c-5d798918e580")
 	)
 	(wire
 		(pts
@@ -5380,7 +5386,7 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 45.72) (xy 30.48 45.72)
+			(xy 31.75 48.26) (xy 30.48 48.26)
 		)
 		(stroke
 			(width 0)
@@ -5397,16 +5403,6 @@
 			(type default)
 		)
 		(uuid "e3f83ac6-efd7-4321-a6df-c00abae8efba")
-	)
-	(wire
-		(pts
-			(xy 254 35.56) (xy 250.19 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd068021-a627-4369-adf9-4faaf85f593d")
 	)
 	(label "Vref"
 		(at 36.83 26.67 180)
@@ -5758,7 +5754,7 @@
 	)
 	(hierarchical_label "+3.3VDC"
 		(shape input)
-		(at 30.48 45.72 180)
+		(at 30.48 48.26 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5780,7 +5776,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape input)
-		(at 30.48 41.91 180)
+		(at 30.48 44.45 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5846,7 +5842,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 33.02 41.91 90)
+		(at 33.02 44.45 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5855,7 +5851,7 @@
 		(fields_autoplaced yes)
 		(uuid "2e45d377-aea1-4a81-85d6-495408eaff28")
 		(property "Reference" "#PWR038"
-			(at 39.37 41.91 0)
+			(at 39.37 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5864,7 +5860,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 36.83 41.9101 90)
+			(at 36.83 44.4501 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5873,7 +5869,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 33.02 41.91 0)
+			(at 33.02 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5882,7 +5878,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 33.02 41.91 0)
+			(at 33.02 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5891,7 +5887,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 33.02 41.91 0)
+			(at 33.02 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5906,6 +5902,73 @@
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/0b285de8-9ee2-45ab-8a02-21d3047a383b"
 					(reference "#PWR038")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 254 35.56 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3efc2560-2d47-46ff-a13b-5dd91fe0e4a3")
+		(property "Reference" "#PWR093"
+			(at 250.19 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 257.81 35.5599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 254 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 254 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 254 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "706eb05f-bd51-468b-83b4-47e92ce80705")
+		)
+		(instances
+			(project "Custom Inverter PCB"
+				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/0b285de8-9ee2-45ab-8a02-21d3047a383b"
+					(reference "#PWR093")
 					(unit 1)
 				)
 			)
@@ -6103,7 +6166,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 31.75 45.72 270)
+		(at 31.75 48.26 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6112,7 +6175,7 @@
 		(fields_autoplaced yes)
 		(uuid "54b6100c-4bce-4116-bfe4-ee5de1d333fa")
 		(property "Reference" "#PWR037"
-			(at 27.94 45.72 0)
+			(at 27.94 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6121,7 +6184,7 @@
 			)
 		)
 		(property "Value" "+3.3VDC"
-			(at 35.56 45.7201 90)
+			(at 35.56 48.2601 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6130,7 +6193,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 31.75 45.72 0)
+			(at 31.75 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6139,7 +6202,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 31.75 45.72 0)
+			(at 31.75 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6148,7 +6211,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 31.75 45.72 0)
+			(at 31.75 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)

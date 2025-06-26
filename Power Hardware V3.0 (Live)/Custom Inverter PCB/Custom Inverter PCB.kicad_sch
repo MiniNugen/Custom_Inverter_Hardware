@@ -11,6 +11,16 @@
 	(lib_symbols)
 	(wire
 		(pts
+			(xy 82.55 129.54) (xy 73.66 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01efd445-0648-4593-a40e-c950482bb675")
+	)
+	(wire
+		(pts
 			(xy 24.13 49.53) (xy 34.29 49.53)
 		)
 		(stroke
@@ -68,6 +78,16 @@
 			(type default)
 		)
 		(uuid "2cda8b61-ef0b-476b-91e9-06e740713639")
+	)
+	(wire
+		(pts
+			(xy 82.55 124.46) (xy 73.66 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2dc6558b-facf-4a26-9ab8-be818de4b6be")
 	)
 	(wire
 		(pts
@@ -241,6 +261,16 @@
 	)
 	(wire
 		(pts
+			(xy 205.74 92.71) (xy 215.9 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76fed696-cd85-46ca-84a4-f75ec1b298ec")
+	)
+	(wire
+		(pts
 			(xy 137.16 49.53) (xy 154.94 49.53)
 		)
 		(stroke
@@ -248,6 +278,16 @@
 			(type default)
 		)
 		(uuid "78143685-0963-4f9d-b778-acb22a5ac42b")
+	)
+	(wire
+		(pts
+			(xy 24.13 132.08) (xy 34.29 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7843aab1-87cf-4641-9b79-7ff6dd92b320")
 	)
 	(wire
 		(pts
@@ -278,6 +318,16 @@
 			(type default)
 		)
 		(uuid "79e56349-ba87-47f2-ae5e-2a045e251c11")
+	)
+	(wire
+		(pts
+			(xy 82.55 134.62) (xy 73.66 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ae43a6d-4818-4f1e-92ee-c9fdaec9a0cd")
 	)
 	(wire
 		(pts
@@ -501,6 +551,16 @@
 	)
 	(wire
 		(pts
+			(xy 24.13 127) (xy 34.29 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e45720c6-6dd3-4425-a230-278474b977b4")
+	)
+	(wire
+		(pts
 			(xy 24.13 55.88) (xy 34.29 55.88)
 		)
 		(stroke
@@ -590,7 +650,7 @@
 		(uuid "07b56982-c0fc-4b48-b791-bd819cfbbfb2")
 	)
 	(label "+3.3VDC"
-		(at 106.68 128.27 0)
+		(at 82.55 124.46 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -620,7 +680,7 @@
 		(uuid "26898649-e1db-4896-ae45-655572342a8f")
 	)
 	(label "+12VDC"
-		(at 106.68 138.43 0)
+		(at 82.55 134.62 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -649,6 +709,16 @@
 		)
 		(uuid "3783ec5b-4f14-4a91-9f1f-4fdac0794ca4")
 	)
+	(label "+5V"
+		(at 205.74 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "385e0acb-d31b-4577-9cbd-98227dfa0ae3")
+	)
 	(label "+100VDC"
 		(at 87.63 60.96 180)
 		(effects
@@ -670,7 +740,7 @@
 		(uuid "46d3f797-23d5-4b51-bde4-9e398c9e75b0")
 	)
 	(label "+5V"
-		(at 106.68 133.35 0)
+		(at 82.55 129.54 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -880,7 +950,7 @@
 		(uuid "df82fe0e-1bb7-4685-acf6-18874e158a9e")
 	)
 	(label "+100VDC"
-		(at 67.31 130.81 180)
+		(at 24.13 127 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -890,17 +960,17 @@
 		(uuid "e4d7c631-4f8f-4def-9866-36e939d29dac")
 	)
 	(label "+5V"
-		(at 205.74 120.65 180)
+		(at 205.74 120.65 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "edb3542f-1b22-4ece-84e8-c2af9581a523")
 	)
 	(label "GND"
-		(at 67.31 135.89 180)
+		(at 24.13 132.08 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1414,7 +1484,7 @@
 		)
 	)
 	(sheet
-		(at 67.31 120.65)
+		(at 34.29 116.84)
 		(size 39.37 41.91)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1430,7 +1500,7 @@
 		)
 		(uuid "307b2ae8-2aa0-44b1-9267-420e6d92e26f")
 		(property "Sheetname" "Power Converters"
-			(at 67.31 119.9384 0)
+			(at 34.29 116.1284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1439,7 +1509,7 @@
 			)
 		)
 		(property "Sheetfile" "power_converters_sch.kicad_sch"
-			(at 67.31 163.1446 0)
+			(at 34.29 159.3346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1448,7 +1518,7 @@
 			)
 		)
 		(pin "+3.3VDC" output
-			(at 106.68 128.27 0)
+			(at 73.66 124.46 0)
 			(uuid "a782d53c-f43b-4693-b0d5-c92b8231fde2")
 			(effects
 				(font
@@ -1458,7 +1528,7 @@
 			)
 		)
 		(pin "+5VDC" output
-			(at 106.68 133.35 0)
+			(at 73.66 129.54 0)
 			(uuid "106c83d4-ea72-42a9-ac6e-c79de8c022ae")
 			(effects
 				(font
@@ -1468,7 +1538,7 @@
 			)
 		)
 		(pin "+12VDC" output
-			(at 106.68 138.43 0)
+			(at 73.66 134.62 0)
 			(uuid "25a729cf-3143-44d4-b8f5-a3841e66835d")
 			(effects
 				(font
@@ -1478,7 +1548,7 @@
 			)
 		)
 		(pin "+100VDC" input
-			(at 67.31 130.81 180)
+			(at 34.29 127 180)
 			(uuid "5f86b315-494c-48c9-944e-76cc4e913b4c")
 			(effects
 				(font
@@ -1488,7 +1558,7 @@
 			)
 		)
 		(pin "GND" input
-			(at 67.31 135.89 180)
+			(at 34.29 132.08 180)
 			(uuid "804df2cb-cb7d-4b77-ab7a-89c891f9cbf4")
 			(effects
 				(font
