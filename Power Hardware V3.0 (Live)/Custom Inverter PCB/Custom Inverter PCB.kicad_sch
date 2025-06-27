@@ -41,6 +41,16 @@
 	)
 	(wire
 		(pts
+			(xy 269.24 128.27) (xy 250.19 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bdf771d-cc4b-4e15-b709-ce6a25239458")
+	)
+	(wire
+		(pts
 			(xy 205.74 120.65) (xy 215.9 120.65)
 		)
 		(stroke
@@ -201,6 +211,16 @@
 	)
 	(wire
 		(pts
+			(xy 256.54 85.09) (xy 269.24 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67f496e9-4e45-47df-bb50-43ea27c136c9")
+	)
+	(wire
+		(pts
 			(xy 82.55 88.9) (xy 69.85 88.9)
 		)
 		(stroke
@@ -241,6 +261,16 @@
 	)
 	(wire
 		(pts
+			(xy 269.24 85.09) (xy 269.24 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f0b079a-9268-4498-9d95-595235baa3dc")
+	)
+	(wire
+		(pts
 			(xy 69.85 31.75) (xy 99.06 31.75)
 		)
 		(stroke
@@ -258,16 +288,6 @@
 			(type default)
 		)
 		(uuid "72114586-5204-4c43-b5ed-fa9b1d1f027e")
-	)
-	(wire
-		(pts
-			(xy 205.74 92.71) (xy 215.9 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "76fed696-cd85-46ca-84a4-f75ec1b298ec")
 	)
 	(wire
 		(pts
@@ -708,16 +728,6 @@
 			(justify left bottom)
 		)
 		(uuid "3783ec5b-4f14-4a91-9f1f-4fdac0794ca4")
-	)
-	(label "+5V"
-		(at 205.74 92.71 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "385e0acb-d31b-4577-9cbd-98227dfa0ae3")
 	)
 	(label "+100VDC"
 		(at 87.63 60.96 180)
@@ -1445,16 +1455,6 @@
 				(justify left)
 			)
 		)
-		(pin "+5V" output
-			(at 215.9 92.71 180)
-			(uuid "dc55b8ea-7825-4507-8a94-933407af6837")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "COS" input
 			(at 256.54 90.17 0)
 			(uuid "b80e40d2-2664-4081-b65f-754c86fca74f")
@@ -1468,6 +1468,16 @@
 		(pin "SINE" input
 			(at 256.54 96.52 0)
 			(uuid "374fc3e4-53cf-422e-91aa-53b27f591a62")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Temp+" input
+			(at 256.54 85.09 0)
+			(uuid "227e15b7-8bfc-43c9-b3e5-4991d5d0869d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1647,6 +1657,16 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(pin "TEMP+" output
+			(at 250.19 128.27 0)
+			(uuid "50ac0b70-5a0d-4bc2-a859-725c11b07b7c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances

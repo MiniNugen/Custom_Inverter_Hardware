@@ -3384,7 +3384,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "CRGCQ0805F220R"
 			(at 207.01 41.91 0)
 			(effects
 				(font
@@ -4108,7 +4108,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "CRGCQ0805F220R"
 			(at 207.01 48.26 0)
 			(effects
 				(font
@@ -4330,7 +4330,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "CRGCQ0805F220R"
 			(at 207.01 54.61 0)
 			(effects
 				(font

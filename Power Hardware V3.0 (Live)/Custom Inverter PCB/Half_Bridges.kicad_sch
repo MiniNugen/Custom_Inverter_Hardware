@@ -3679,84 +3679,6 @@
 		)
 	)
 	(symbol
-		(lib_id "2025-02-24_21-09-15:0463030.ER")
-		(at 78.74 62.23 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "22f93a92-39e1-4e64-8da5-f4c5e54f4f98")
-		(property "Reference" "F2"
-			(at 80.518 64.008 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "250V 30A"
-			(at 83.82 58.42 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "0463030_ER:FUSE_0463_LTF-M"
-			(at 78.74 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "0463030.ER"
-			(at 78.74 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1086/463_Series.pdf"
-			(at 78.74 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number" "0463030.ER"
-			(at 78.74 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "7ed0e8f6-cd79-4bfa-b12a-ac752b5151b2")
-		)
-		(pin "1"
-			(uuid "cec618db-b80a-43f8-bc0f-27d73e698165")
-		)
-		(instances
-			(project "Custom Inverter PCB"
-				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "F2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_name "CSD19532Q5B_1")
 		(lib_id "CSD19532Q5B:CSD19532Q5B")
 		(at 55.88 76.2 0)
@@ -4391,23 +4313,23 @@
 	)
 	(symbol
 		(lib_id "2025-02-24_21-09-15:0463030.ER")
-		(at 168.91 62.23 0)
+		(at 78.74 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "477d88f7-87a9-48de-b8be-673e2e7781be")
-		(property "Reference" "F3"
-			(at 170.688 64.008 0)
+		(uuid "40a636a5-34cd-4744-9f4d-74b1c1a6649e")
+		(property "Reference" "F5"
+			(at 80.518 64.008 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
 			)
 		)
-		(property "Value" "250V 30A"
-			(at 173.99 58.42 0)
+		(property "Value" "250VAC 50A"
+			(at 83.82 58.42 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4415,7 +4337,7 @@
 			)
 		)
 		(property "Footprint" "0463030_ER:FUSE_0463_LTF-M"
-			(at 168.91 62.23 0)
+			(at 78.74 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4424,8 +4346,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "0463030.ER"
-			(at 168.91 62.23 0)
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/SF-3812F-T.pdf"
+			(at 78.74 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4434,8 +4356,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1086/463_Series.pdf"
-			(at 168.91 62.23 0)
+		(property "Description" "50A 250VAC, 100VDC"
+			(at 78.74 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4443,8 +4365,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "0463030.ER"
-			(at 168.91 62.23 0)
+		(property "Part Number" "SF-3812F5000T-2"
+			(at 78.74 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4453,15 +4375,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "b20ada51-b031-4a78-a8f5-8d50afce654f")
+			(uuid "c393c58b-eb1d-45ed-84ad-bc9f31037be0")
 		)
 		(pin "1"
-			(uuid "a3cc390c-a1aa-46ff-bdc3-2aafafeb9ce1")
+			(uuid "a44709cb-20cc-4f01-8552-f9edd11d2cc3")
 		)
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "F3")
+					(reference "F5")
 					(unit 1)
 				)
 			)
@@ -5441,6 +5363,84 @@
 		)
 	)
 	(symbol
+		(lib_id "2025-02-24_21-09-15:0463030.ER")
+		(at 168.91 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9d0bc77a-86a1-4fba-ba40-b1ba081b4b5e")
+		(property "Reference" "F6"
+			(at 170.688 64.008 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "250VAC 50A"
+			(at 173.99 58.42 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "0463030_ER:FUSE_0463_LTF-M"
+			(at 168.91 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/SF-3812F-T.pdf"
+			(at 168.91 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "50A 250VAC, 100VDC"
+			(at 168.91 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "SF-3812F5000T-2"
+			(at 168.91 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0e59fa8e-003b-40ba-8d24-463d038392af")
+		)
+		(pin "1"
+			(uuid "933f4247-b9f4-4bd2-9949-81e68fd4498c")
+		)
+		(instances
+			(project "Custom Inverter PCB"
+				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
+					(reference "F6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "5002:5002")
 		(at 121.92 73.66 90)
 		(unit 1)
@@ -6246,6 +6246,84 @@
 		)
 	)
 	(symbol
+		(lib_id "2025-02-24_21-09-15:0463030.ER")
+		(at 261.62 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d3c6b7bc-9c45-4c62-848a-feb66d0395f0")
+		(property "Reference" "F7"
+			(at 263.398 64.008 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "250VAC 50A"
+			(at 266.7 58.42 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "0463030_ER:FUSE_0463_LTF-M"
+			(at 261.62 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/SF-3812F-T.pdf"
+			(at 261.62 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "50A 250VAC, 100VDC"
+			(at 261.62 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "SF-3812F5000T-2"
+			(at 261.62 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "edc78f29-158f-4843-920b-e0cb10f1b043")
+		)
+		(pin "1"
+			(uuid "14c5a56f-660c-4f2f-b619-b61dd4e33cf3")
+		)
+		(instances
+			(project "Custom Inverter PCB"
+				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
+					(reference "F7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "5002:5002")
 		(at 120.65 46.99 90)
 		(unit 1)
@@ -6569,84 +6647,6 @@
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
 					(reference "Q3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "2025-02-24_21-09-15:0463030.ER")
-		(at 261.62 62.23 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f0fa8ab0-f0f2-4c78-8de4-7d3916042419")
-		(property "Reference" "F4"
-			(at 263.398 64.008 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "250V 30A"
-			(at 266.7 58.42 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "0463030_ER:FUSE_0463_LTF-M"
-			(at 261.62 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1086/463_Series.pdf"
-			(at 261.62 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 261.62 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number" "0463030.ER"
-			(at 261.62 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f7bc654b-fa9b-49a4-a8a3-432e0120113c")
-		)
-		(pin "1"
-			(uuid "1a10df16-96c5-4e36-aa1a-cd43861c2a37")
-		)
-		(instances
-			(project "Custom Inverter PCB"
-				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "F4")
 					(unit 1)
 				)
 			)
