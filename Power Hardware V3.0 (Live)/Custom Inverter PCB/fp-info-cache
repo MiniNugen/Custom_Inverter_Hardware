@@ -1,25 +1,11 @@
-24805305166657993
-3.3v Regulator
-D2PAK&slash_A_STM
+24817621158388037
+2P term 1990009
+PHOENIX_1990009
 
-LD1085D2M33R 
-0
-4
-4
-3.3v Regulator
-D2PAK&slash_A_STM-L
 
-LD1085D2M33R 
 0
-4
-4
-3.3v Regulator
-D2PAK&slash_A_STM-M
-
-LD1085D2M33R 
-0
-4
-4
+2
+2
 5002
 KEYSTONE_5002
 
@@ -55,6 +41,13 @@ PHOENIX_1714971
 0
 2
 2
+1714971
+Untitled
+
+
+0
+0
+0
 1935161
 PHOENIX_1935161
 
@@ -69,6 +62,13 @@ CONN20_0010897202_MOL
 0
 20
 20
+470531000
+CONN_SD-47053-001_H10p00_MOL
+
+470531000 
+0
+4
+4
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -101,13 +101,6 @@ BAV20WS-TP
 CR_SOD-323_MCC-M
 
 BAV20WS-TP 
-0
-2
-2
-Barrel Inductor AIRD-06-182K
-AIRD-06_ABR
-
-AIRD-06-182K 
 0
 2
 2
@@ -2666,13 +2659,6 @@ speaker CUI
 0
 2
 2
-CSD19532Q5B
-TRANS_CSD19532Q5B
-
-
-0
-3
-3
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -55334,13 +55320,6 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
-Current Sense IC TLI4971A
-PG-TISON-8-5
-
-TLI4971A120T5UE0001XUMA1 
-0
-8
-8
 DRV8300DIPWR
 TSSOP_0DIPWR_TEX
 
@@ -64805,6 +64784,27 @@ solder jumper open
 0
 3
 3
+L78M05CDT_TR
+DPAK_STM
+
+L78M05CDT-TR 
+0
+3
+3
+L78M05CDT_TR
+DPAK_STM-L
+
+L78M05CDT-TR 
+0
+3
+3
+L78M05CDT_TR
+DPAK_STM-M
+
+L78M05CDT-TR 
+0
+3
+3
 LAUNCHXL-F280049C
 MODULE_LAUNCHXL-F280049C
 
@@ -66037,6 +66037,34 @@ Yellow 5381 Series LED
 0
 2
 2
+M5 Screw Term 7461383
+WP-SHFU_7461383
+
+
+0
+16
+16
+MIC5219_5_0YM5_TR
+SOT-23-5_M5_MCH
+
+MIC5219-5.0YM5-TR 
+0
+5
+5
+MIC5219_5_0YM5_TR
+SOT-23-5_M5_MCH-L
+
+MIC5219-5.0YM5-TR 
+0
+5
+5
+MIC5219_5_0YM5_TR
+SOT-23-5_M5_MCH-M
+
+MIC5219-5.0YM5-TR 
+0
+5
+5
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -70041,6 +70069,13 @@ PHOENIX_1989764
 0
 4
 4
+PHOENIX_1990041
+PHOENIX_1990041
+
+
+0
+6
+6
 Package_BGA
 Alliance_TFBGA-36_6x8mm_Layout6x8_P0.75mm
 Alliance TFBGA-36, NSMD, 6.0x8.0mm, 36 Ball, 6x8 Layout, 0.75mm Pitch, https://www.alliancememory.com/wp-content/uploads/pdf/AS6C1008_Mar_2023V1.2.pdf
@@ -91440,6 +91475,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SDR1006_680KL
+IND_BOURNS_SDR1006
+
+SDR1006-680KL 
+0
+2
+2
 SSQ_110_03_G_D
 SAMTEC_SSQ-110-03-G-D
 
@@ -93134,6 +93176,13 @@ TE_1-1393210-3
 0
 4
 4
+TLI4971A
+TLI4971A050T5UE0001XUMA1
+
+
+0
+8
+8
 TLV9004IPWR
 SOP65P640X120-14N
 

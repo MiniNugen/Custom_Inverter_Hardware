@@ -1774,7 +1774,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0d32b4d0-f77a-4dc5-91aa-c76587461883")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR059"
 			(at 125.73 100.33 0)
 			(effects
 				(font
@@ -1824,7 +1824,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "#PWR071")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -1846,7 +1846,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1a0a8c28-19bf-404a-9092-67eca755630d")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR055"
 			(at 58.42 64.77 0)
 			(effects
 				(font
@@ -1897,79 +1897,13 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "#PWR070")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
 			(project "Encoder Input"
 				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
 					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 55.88 80.01 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1a0a8c28-19bf-404a-9092-67eca755630d")
-		(property "Reference" "#PWR033"
-			(at 55.88 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 55.88 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 55.88 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 55.88 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 55.88 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b2eebfd1-c65a-4393-aa3f-e7afc204bddf")
-		)
-		(instances
-			(project "Custom Inverter PCB"
-				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -1985,7 +1919,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b18c899-b92f-48a4-9215-5f323af099b5")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR061"
 			(at 195.58 99.06 0)
 			(effects
 				(font
@@ -2035,7 +1969,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "#PWR073")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -2056,7 +1990,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2a5060c9-d78a-4ce2-a965-2c6f96097dc5")
-		(property "Reference" "R8"
+		(property "Reference" "R21"
 			(at 103.124 68.834 90)
 			(effects
 				(font
@@ -2108,7 +2042,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "R8")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -2129,7 +2063,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "30989361-8bde-44c5-b229-3b3e974b3fd5")
-		(property "Reference" "R47"
+		(property "Reference" "R28"
 			(at 220.472 76.454 90)
 			(effects
 				(font
@@ -2190,13 +2124,89 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "R47")
+					(reference "R28")
 					(unit 1)
 				)
 			)
 			(project "Encoder Input"
 				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
 					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 60.96 72.39 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "34808665-f3d0-49c3-9d9a-675ba947fc52")
+		(property "Reference" "R20"
+			(at 65.532 71.374 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5.36k"
+			(at 61.468 74.676 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 60.96 74.168 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+			(at 60.96 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "5.36 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film"
+			(at 60.96 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-075K36L"
+			(at 60.96 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1cb28d47-8a44-48d0-8133-8899c676e0c9")
+		)
+		(pin "1"
+			(uuid "4e84bcdd-5946-418e-a14b-4df67061877f")
+		)
+		(instances
+			(project "Custom Inverter PCB"
+				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -2211,7 +2221,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "373243ef-e778-4ee4-980c-b7bcb911ca82")
-		(property "Reference" "R45"
+		(property "Reference" "R22"
 			(at 108.712 76.454 90)
 			(effects
 				(font
@@ -2272,89 +2282,13 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "R45")
+					(reference "R22")
 					(unit 1)
 				)
 			)
 			(project "Encoder Input"
 				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
 					(reference "R?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 60.96 72.39 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "373243ef-e778-4ee4-980c-b7bcb911ca82")
-		(property "Reference" "R23"
-			(at 65.532 71.374 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "???"
-			(at 57.15 71.12 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 60.96 74.168 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 60.96 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 60.96 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number" ""
-			(at 60.96 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "1cb28d47-8a44-48d0-8133-8899c676e0c9")
-		)
-		(pin "1"
-			(uuid "4e84bcdd-5946-418e-a14b-4df67061877f")
-		)
-		(instances
-			(project "Custom Inverter PCB"
-				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -2369,7 +2303,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4d26149d-cdb9-4351-843c-acb75fdf6cc9")
-		(property "Reference" "R18"
+		(property "Reference" "R27"
 			(at 220.472 71.12 90)
 			(effects
 				(font
@@ -2430,7 +2364,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "R18")
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -2452,7 +2386,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52232fee-ead6-4ea0-a4c0-b4cc1ad3801d")
-		(property "Reference" "R9"
+		(property "Reference" "R25"
 			(at 198.12 83.8199 0)
 			(effects
 				(font
@@ -2515,7 +2449,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "R9")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -2536,7 +2470,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "821f503d-f046-4302-8a4a-d3766d1b2d79")
-		(property "Reference" "R48"
+		(property "Reference" "R26"
 			(at 199.644 71.12 90)
 			(effects
 				(font
@@ -2597,13 +2531,146 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "R48")
+					(reference "R26")
 					(unit 1)
 				)
 			)
 			(project "Encoder Input"
 				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
 					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 55.88 80.01 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "83c32417-e9ad-4bb5-9f89-5c0e97b6c27f")
+		(property "Reference" "#PWR056"
+			(at 55.88 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 55.88 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 55.88 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 55.88 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 55.88 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b2eebfd1-c65a-4393-aa3f-e7afc204bddf")
+		)
+		(instances
+			(project "Custom Inverter PCB"
+				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
+					(reference "#PWR056")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 67.31 72.39 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8504cf60-069a-41e4-b173-5fa416741042")
+		(property "Reference" "#PWR057"
+			(at 63.5 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 71.12 72.3899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 67.31 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 67.31 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 67.31 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6129e294-7a3c-46b6-81bf-2f66d4f6471f")
+		)
+		(instances
+			(project "Custom Inverter PCB"
+				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -2618,7 +2685,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "aecea2e3-6c04-41f8-9a24-ee2fc64c621e")
-		(property "Reference" "J2"
+		(property "Reference" "J6"
 			(at 39.37 58.674 0)
 			(effects
 				(font
@@ -2704,7 +2771,90 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "J2")
+					(reference "J6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 198.12 63.5 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b33d1729-308c-45c9-b45b-80f7dc02481a")
+		(property "Reference" "C17"
+			(at 198.12 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 198.12 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 201.93 62.5348 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/kyocera-avx/0805ZD104KAT2A/1603455"
+			(at 198.12 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CAP CER 0.1UF 10V X5R 0805"
+			(at 198.12 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "0805ZD104KAT2A"
+			(at 198.12 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "cc47b244-6487-4a41-b139-5709d65d820f")
+		)
+		(pin "1"
+			(uuid "0595bcf8-406f-4e83-bd45-fe14695e61db")
+		)
+		(instances
+			(project "Custom Inverter PCB"
+				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
+					(reference "C17")
+					(unit 1)
+				)
+			)
+			(project "Encoder Input"
+				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
+					(reference "C?")
 					(unit 1)
 				)
 			)
@@ -2720,7 +2870,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b663b07c-6445-4130-96fc-51f68d8fdcfb")
-		(property "Reference" "R5"
+		(property "Reference" "R24"
 			(at 121.92 82.5499 0)
 			(effects
 				(font
@@ -2783,7 +2933,7 @@
 		(instances
 			(project ""
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "R5")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -2804,7 +2954,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c2f492e9-572c-4dcb-9c65-a777a200d7f2")
-		(property "Reference" "R46"
+		(property "Reference" "R23"
 			(at 115.316 66.04 90)
 			(effects
 				(font
@@ -2865,7 +3015,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "R46")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -2887,7 +3037,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c3fa201b-f859-4ce0-a1f9-9d0060f0f40d")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR053"
 			(at 46.99 31.75 0)
 			(effects
 				(font
@@ -2938,7 +3088,7 @@
 		(instances
 			(project ""
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "#PWR063")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -2959,7 +3109,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c5f81348-6c41-43f7-a033-ab907d83c481")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR058"
 			(at 90.17 71.12 0)
 			(effects
 				(font
@@ -3009,7 +3159,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "#PWR062")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -3134,7 +3284,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d54d656e-fda0-45e4-9ca0-41dcc9ed19d1")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR062"
 			(at 210.82 63.5 0)
 			(effects
 				(font
@@ -3185,7 +3335,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "#PWR072")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -3206,7 +3356,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d705bd47-bdc4-498a-887b-087a8b6396a9")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR063"
 			(at 219.71 72.39 0)
 			(effects
 				(font
@@ -3256,7 +3406,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "#PWR074")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -3278,7 +3428,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f3fdfbf5-e0fa-400f-933d-8ae24188d09d")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR054"
 			(at 48.26 62.23 0)
 			(effects
 				(font
@@ -3329,80 +3479,13 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "#PWR060")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
 			(project "Encoder Input"
 				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
 					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 67.31 72.39 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f3fdfbf5-e0fa-400f-933d-8ae24188d09d")
-		(property "Reference" "#PWR039"
-			(at 63.5 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 71.12 72.3899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 67.31 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 67.31 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 67.31 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6129e294-7a3c-46b6-81bf-2f66d4f6471f")
-		)
-		(instances
-			(project "Custom Inverter PCB"
-				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -3418,7 +3501,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa30ea32-898a-41a4-82c5-193eb207016a")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR052"
 			(at 36.83 27.94 0)
 			(effects
 				(font
@@ -3469,96 +3552,13 @@
 		(instances
 			(project ""
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "#PWR036")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
 			(project "Encoder Input"
 				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
 					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 198.12 63.5 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fadcb6c9-4a64-4fbc-b67e-6c9115693a37")
-		(property "Reference" "C15"
-			(at 198.12 55.88 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 198.12 58.42 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 201.93 62.5348 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.digikey.ca/en/products/detail/kyocera-avx/0805ZD104KAT2A/1603455"
-			(at 198.12 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "CAP CER 0.1UF 10V X5R 0805"
-			(at 198.12 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number" "0805ZD104KAT2A"
-			(at 198.12 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "cc47b244-6487-4a41-b139-5709d65d820f")
-		)
-		(pin "1"
-			(uuid "0595bcf8-406f-4e83-bd45-fe14695e61db")
-		)
-		(instances
-			(project "Custom Inverter PCB"
-				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "C15")
-					(unit 1)
-				)
-			)
-			(project "Encoder Input"
-				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
-					(reference "C?")
 					(unit 1)
 				)
 			)
@@ -3574,7 +3574,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb62f68d-6dbd-491b-af91-1bcb2853154e")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR060"
 			(at 191.77 63.5 0)
 			(effects
 				(font
@@ -3624,7 +3624,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "#PWR061")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)

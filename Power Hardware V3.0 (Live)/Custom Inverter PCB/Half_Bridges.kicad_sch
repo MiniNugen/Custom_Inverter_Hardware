@@ -349,841 +349,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CSD19532Q5B:CSD19532Q5B"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "Q"
-				(at -8.89 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "CSD19532Q5B"
-				(at -8.89 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "CSD19532Q5B:TRANS_CSD19532Q5B"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "B"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "1.05 mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "Texas Instruments"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "CSD19532Q5B_0_0"
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 3.175) (xy 0.762 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 2.54) (xy 0.762 1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 2.54) (xy 3.81 2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 0.762) (xy 0.762 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 0) (xy 0.762 -0.762)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 -1.905) (xy 0.762 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 -2.54) (xy 0.762 -3.175)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.016 0) (xy 2.032 0.762) (xy 2.032 -0.762) (xy 1.016 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 2.54 2.54)
-					(radius 0.3592)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 0) (xy 2.54 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.54) (xy 0.762 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.54) (xy 3.81 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.54 -2.54)
-					(radius 0.3592)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.302 0.508) (xy 3.048 0.254)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 2.54) (xy 3.81 0.508)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 0.508) (xy 3.302 0.508)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 0.508) (xy 3.81 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 0.508) (xy 3.302 -0.254) (xy 4.318 -0.254) (xy 3.81 0.508)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 4.318 0.508) (xy 3.81 0.508)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 4.572 0.762) (xy 4.318 0.508)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -2.54 -2.54 0)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 5.08 270)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "5_8"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 -5.08 90)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1_3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "CSD19532Q5B_1"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "Q2"
-				(at 6.35 1.2701 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "CSD19532Q5B"
-				(at 6.35 -1.2699 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" "CSD19532Q5B:TRANS_CSD19532Q5B"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "B"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "1.05 mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "Texas Instruments"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Part Number" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "CSD19532Q5B_1_0_0"
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 3.175) (xy 0.762 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 2.54) (xy 0.762 1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 2.54) (xy 3.81 2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 0.762) (xy 0.762 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 0) (xy 0.762 -0.762)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 -1.905) (xy 0.762 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 -2.54) (xy 0.762 -3.175)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.016 0) (xy 2.032 0.762) (xy 2.032 -0.762) (xy 1.016 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 2.54 2.54)
-					(radius 0.3592)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 0) (xy 2.54 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.54) (xy 0.762 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.54) (xy 3.81 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.54 -2.54)
-					(radius 0.3592)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.302 0.508) (xy 3.048 0.254)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 2.54) (xy 3.81 0.508)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 0.508) (xy 3.302 0.508)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 0.508) (xy 3.81 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 0.508) (xy 3.302 -0.254) (xy 4.318 -0.254) (xy 3.81 0.508)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 4.318 0.508) (xy 3.81 0.508)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 4.572 0.762) (xy 4.318 0.508)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -2.54 -2.54 0)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 5.08 270)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "5_8"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 -5.08 90)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1_3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
@@ -1437,6 +602,302 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Q_NMOS_1"
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q3"
+				(at 6.35 1.2701 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "Q_NMOS"
+				(at 6.35 -1.2699 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
+				(at 5.08 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.infineon.com/dgdl/irfb4115pbf.pdf?fileId=5546d462533600a401535615ba6a1e0f"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "N-Channel 150 V 104A (Tc) 380W (Tc) Through Hole TO-220AB"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Part Number" "IRFB4115PBF"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "NMOS N-MOS"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Q_NMOS_1_0_1"
+				(polyline
+					(pts
+						(xy 0.254 1.905) (xy 0.254 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 2.286) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 0.508) (xy 0.762 -0.508)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.27) (xy 0.762 -2.286)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.778) (xy 3.302 -1.778) (xy 3.302 1.778) (xy 0.762 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 0) (xy 2.032 0.381) (xy 2.032 -0.381) (xy 1.016 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 1.651 0)
+					(radius 2.794)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy 2.54 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 2.54 -1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy 2.54 0) (xy 0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.921 0.381) (xy 3.683 0.381)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 0.381) (xy 2.921 -0.254) (xy 3.683 -0.254) (xy 3.302 0.381)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Q_NMOS_1_1_1"
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1787,19 +1248,19 @@
 		(uuid "2e5fe4c6-508a-4e65-8131-3d47c518b3a0")
 	)
 	(junction
-		(at 29.21 52.07)
+		(at 30.48 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "568b869e-c116-40e1-9852-5183959c3e64")
 	)
 	(junction
-		(at 209.55 52.07)
+		(at 208.28 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5882bef4-0886-4143-b625-64084ca8aa5c")
 	)
 	(junction
-		(at 210.82 78.74)
+		(at 208.28 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5a3440c0-2a95-4a76-ba2d-2dc8480625ea")
@@ -1817,10 +1278,16 @@
 		(uuid "5f54a23c-cc11-4588-a39c-4a38208e82ea")
 	)
 	(junction
-		(at 30.48 78.74)
+		(at 119.38 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7a4863e4-4fb8-42f6-91c5-ddcbfcf488fe")
+		(uuid "6f8caa4e-1aad-423c-998e-0bff8ab18343")
+	)
+	(junction
+		(at 30.48 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "73a6bbc0-2e8c-4bdb-b727-6f766ccfa082")
 	)
 	(junction
 		(at 146.05 62.23)
@@ -1835,7 +1302,7 @@
 		(uuid "c604e58a-08bb-4a7a-96bd-8e3f03761500")
 	)
 	(junction
-		(at 121.92 78.74)
+		(at 119.38 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "de23db81-db52-40db-9f0a-7bcee234d892")
@@ -1846,15 +1313,9 @@
 		(color 0 0 0 0)
 		(uuid "f5e5daba-4e08-4444-b5d4-8063d821255f")
 	)
-	(junction
-		(at 120.65 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fb1cfae5-ebcf-4b0c-88dc-1c57b190fda8")
-	)
 	(wire
 		(pts
-			(xy 121.92 78.74) (xy 129.54 78.74)
+			(xy 119.38 76.2) (xy 127 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1894,7 +1355,17 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 78.74) (xy 218.44 78.74)
+			(xy 30.48 74.93) (xy 30.48 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f1aa9b2-d084-49c1-afa3-ec56809cd3e0")
+	)
+	(wire
+		(pts
+			(xy 208.28 76.2) (xy 215.9 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1944,7 +1415,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 52.07) (xy 53.34 52.07)
+			(xy 46.99 49.53) (xy 50.8 49.53)
 		)
 		(stroke
 			(width 0)
@@ -1961,6 +1432,16 @@
 			(type default)
 		)
 		(uuid "2cf3e24d-b211-488a-8c6f-d10ac2ec59c8")
+	)
+	(wire
+		(pts
+			(xy 223.52 76.2) (xy 224.79 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f1319e6-8450-44d8-9e86-eeb083505a68")
 	)
 	(wire
 		(pts
@@ -1984,7 +1465,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 78.74) (xy 53.34 78.74)
+			(xy 46.99 76.2) (xy 50.8 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2044,23 +1525,23 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 52.07) (xy 140.97 52.07)
+			(xy 110.49 76.2) (xy 119.38 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45cf3e5b-d8db-4e7f-841d-1c84eaa78dbd")
+	)
+	(wire
+		(pts
+			(xy 135.89 49.53) (xy 138.43 49.53)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "4735c95c-ffd4-4790-a15b-0aa9fe6a2f29")
-	)
-	(wire
-		(pts
-			(xy 30.48 78.74) (xy 39.37 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4958520d-092d-4d7e-8c10-e955a7ffac1f")
 	)
 	(wire
 		(pts
@@ -2164,7 +1645,7 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 52.07) (xy 29.21 52.07)
+			(xy 22.86 49.53) (xy 30.48 49.53)
 		)
 		(stroke
 			(width 0)
@@ -2214,7 +1695,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 52.07) (xy 209.55 52.07)
+			(xy 200.66 49.53) (xy 208.28 49.53)
 		)
 		(stroke
 			(width 0)
@@ -2254,6 +1735,26 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 49.53) (xy 128.27 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ab5a921-07e8-45a1-a312-f58fcfdabf0a")
+	)
+	(wire
+		(pts
+			(xy 110.49 49.53) (xy 119.38 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80ab5170-facb-40f7-9b64-41d1b92f10fd")
+	)
+	(wire
+		(pts
 			(xy 55.88 185.42) (xy 64.77 185.42)
 		)
 		(stroke
@@ -2274,7 +1775,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 78.74) (xy 210.82 78.74)
+			(xy 199.39 76.2) (xy 208.28 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2294,13 +1795,13 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 52.07) (xy 120.65 52.07)
+			(xy 30.48 76.2) (xy 39.37 76.2)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "97dd4049-00ba-4960-a60e-77884fd3e394")
+		(uuid "982a298f-ac1f-490f-af72-5801214f9d7e")
 	)
 	(wire
 		(pts
@@ -2314,17 +1815,17 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 52.07) (xy 130.81 52.07)
+			(xy 119.38 48.26) (xy 119.38 49.53)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b2413b70-7039-43cc-867e-34ec40f7e4a4")
+		(uuid "ba8283de-5ff1-4e55-a7ee-551eca96592a")
 	)
 	(wire
 		(pts
-			(xy 224.79 52.07) (xy 227.33 52.07)
+			(xy 223.52 49.53) (xy 224.79 49.53)
 		)
 		(stroke
 			(width 0)
@@ -2334,7 +1835,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 78.74) (xy 140.97 78.74)
+			(xy 134.62 76.2) (xy 138.43 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2374,23 +1875,13 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 78.74) (xy 30.48 78.74)
+			(xy 21.59 76.2) (xy 30.48 76.2)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "c99fb6d7-57c3-4f85-963c-9ec872be7328")
-	)
-	(wire
-		(pts
-			(xy 226.06 78.74) (xy 227.33 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cbc3c4c9-3a58-4d7c-bd4b-77ceebce32f7")
 	)
 	(wire
 		(pts
@@ -2404,7 +1895,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 52.07) (xy 39.37 52.07)
+			(xy 30.48 49.53) (xy 39.37 49.53)
 		)
 		(stroke
 			(width 0)
@@ -2444,7 +1935,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 52.07) (xy 217.17 52.07)
+			(xy 208.28 49.53) (xy 215.9 49.53)
 		)
 		(stroke
 			(width 0)
@@ -2491,16 +1982,6 @@
 			(type default)
 		)
 		(uuid "eff13ce9-d7aa-4933-9f86-d7e800507cb9")
-	)
-	(wire
-		(pts
-			(xy 113.03 78.74) (xy 121.92 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f19db4f7-b26d-4b21-a5dd-d4fc38733bda")
 	)
 	(wire
 		(pts
@@ -2613,7 +2094,7 @@
 		(uuid "268831e7-b989-4a6b-a3b0-f095277b5a66")
 	)
 	(label "GLC"
-		(at 201.93 78.74 180)
+		(at 199.39 76.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2673,7 +2154,7 @@
 		(uuid "4fd602dc-d8fe-4477-959c-0181e4d7d13a")
 	)
 	(label "GLB"
-		(at 113.03 78.74 180)
+		(at 110.49 76.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2683,7 +2164,7 @@
 		(uuid "5b9e73c0-be28-4866-97ae-ac4d4a6dd143")
 	)
 	(label "GHB"
-		(at 113.03 52.07 180)
+		(at 110.49 49.53 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2773,7 +2254,7 @@
 		(uuid "b5057389-f569-4744-9395-cedaa7939713")
 	)
 	(label "GHA"
-		(at 21.59 52.07 180)
+		(at 22.86 49.53 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2793,7 +2274,7 @@
 		(uuid "b735d38e-0e68-42fa-bafb-f8d45f9a21a6")
 	)
 	(label "GHC"
-		(at 201.93 52.07 180)
+		(at 200.66 49.53 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2843,7 +2324,7 @@
 		(uuid "e0a1ef2f-5cfb-4c35-abe6-6e6694a6e69f")
 	)
 	(label "GLA"
-		(at 21.59 78.74 180)
+		(at 21.59 76.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3357,7 +2838,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0aba516b-cddb-4e47-8b02-d79f54bf689a")
-		(property "Reference" "TP1"
+		(property "Reference" "TP3"
 			(at 95.25 55.8799 90)
 			(effects
 				(font
@@ -3468,7 +2949,173 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "TP1")
+					(reference "TP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "Q_NMOS_1")
+		(lib_id "Device:Q_NMOS")
+		(at 143.51 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0eddcaf5-da13-4023-95ff-e487bba5f1a3")
+		(property "Reference" "Q4"
+			(at 149.86 74.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "IRFB4115PBF"
+			(at 149.86 77.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
+			(at 148.59 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.infineon.com/dgdl/irfb4115pbf.pdf?fileId=5546d462533600a401535615ba6a1e0f"
+			(at 143.51 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "N-Channel 150 V 104A (Tc) 380W (Tc) Through Hole TO-220AB"
+			(at 143.51 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "IRFB4115PBF"
+			(at 143.51 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e4c1fa8d-ddef-438d-8533-0c2224ebbbb1")
+		)
+		(pin "1"
+			(uuid "e1540175-e4fa-4184-8443-b5f19b4aedce")
+		)
+		(pin "3"
+			(uuid "791f5e9c-bbd9-4204-9e22-fa1e2851ebef")
+		)
+		(instances
+			(project "Custom Inverter PCB"
+				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
+					(reference "Q4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "Q_NMOS_1")
+		(lib_id "Device:Q_NMOS")
+		(at 143.51 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "122d266a-f44f-49ca-91b3-1192809567d0")
+		(property "Reference" "Q3"
+			(at 149.86 48.2599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "IRFB4115PBF"
+			(at 149.86 50.7999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
+			(at 148.59 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.infineon.com/dgdl/irfb4115pbf.pdf?fileId=5546d462533600a401535615ba6a1e0f"
+			(at 143.51 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "N-Channel 150 V 104A (Tc) 380W (Tc) Through Hole TO-220AB"
+			(at 143.51 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "IRFB4115PBF"
+			(at 143.51 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9cb65574-7e7c-4b33-863c-27fd5402f3c7")
+		)
+		(pin "1"
+			(uuid "223d62ed-d591-45b5-9b30-e640e45c11f4")
+		)
+		(pin "3"
+			(uuid "a9dc676c-c4b6-402f-96da-c0fe61195bc6")
+		)
+		(instances
+			(project "Custom Inverter PCB"
+				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
+					(reference "Q3")
 					(unit 1)
 				)
 			)
@@ -3476,7 +3123,7 @@
 	)
 	(symbol
 		(lib_id "5002:5002")
-		(at 30.48 73.66 90)
+		(at 30.48 69.85 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3484,8 +3131,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "18ccf8c8-9588-40ff-b8f2-8d80b62804fb")
-		(property "Reference" "TP4"
-			(at 33.02 72.3899 90)
+		(property "Reference" "TP2"
+			(at 33.02 68.5799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3494,7 +3141,7 @@
 			)
 		)
 		(property "Value" "5002"
-			(at 33.02 74.9299 90)
+			(at 33.02 71.1199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3503,7 +3150,7 @@
 			)
 		)
 		(property "Footprint" "5002:KEYSTONE_5002"
-			(at 30.48 73.66 0)
+			(at 30.48 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3513,7 +3160,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 30.48 73.66 0)
+			(at 30.48 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3522,7 +3169,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 30.48 73.66 0)
+			(at 30.48 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3531,7 +3178,7 @@
 			)
 		)
 		(property "PARTREV" "H"
-			(at 30.48 73.66 0)
+			(at 30.48 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3541,7 +3188,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 30.48 73.66 0)
+			(at 30.48 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3551,7 +3198,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "5000"
-			(at 30.48 73.66 0)
+			(at 30.48 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3561,7 +3208,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "4.57 mm"
-			(at 30.48 73.66 0)
+			(at 30.48 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3571,7 +3218,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Keystone"
-			(at 30.48 73.66 0)
+			(at 30.48 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3581,7 +3228,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 30.48 73.66 0)
+			(at 30.48 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3595,7 +3242,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "TP4")
+					(reference "TP2")
 					(unit 1)
 				)
 			)
@@ -3603,7 +3250,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 43.18 52.07 90)
+		(at 43.18 49.53 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3611,8 +3258,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "218d94a6-6d9b-41a3-8025-4682d72144d7")
-		(property "Reference" "R1"
-			(at 43.18 45.72 90)
+		(property "Reference" "R3"
+			(at 43.18 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3620,7 +3267,7 @@
 			)
 		)
 		(property "Value" "15R"
-			(at 43.18 48.26 90)
+			(at 43.18 45.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3628,7 +3275,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 43.18 53.848 90)
+			(at 43.18 51.308 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3637,7 +3284,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.ca/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ150V/82975?s=N4IgTCBcDaIKICUBSBaAbAcTgTSQRgFYAGANRAF0BfIA"
-			(at 43.18 52.07 0)
+			(at 43.18 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3646,7 +3293,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 43.18 52.07 0)
+			(at 43.18 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3655,7 +3302,7 @@
 			)
 		)
 		(property "Part Number" "ERJ-6GEYJ150V"
-			(at 43.18 52.07 0)
+			(at 43.18 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3672,131 +3319,7 @@
 		(instances
 			(project ""
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "CSD19532Q5B_1")
-		(lib_id "CSD19532Q5B:CSD19532Q5B")
-		(at 55.88 76.2 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2da8e999-e654-4c42-a792-72b967d2abd2")
-		(property "Reference" "Q2"
-			(at 62.23 74.9299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "CSD19532Q5B"
-			(at 62.23 77.4699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "CSD19532Q5B:TRANS_CSD19532Q5B"
-			(at 55.88 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/csd19532q5b.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1748435116851&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Fcsd19532q5b"
-			(at 55.88 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MOSFET N-CH 100V 100A 8VSON"
-			(at 55.88 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "B"
-			(at 55.88 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 55.88 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "1.05 mm"
-			(at 55.88 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Texas Instruments"
-			(at 55.88 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Part Number" ""
-			(at 55.88 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "2a5611d0-c617-4c2c-8bb8-7c9e9145377a")
-		)
-		(pin "5_8"
-			(uuid "de7a4ac1-73ba-4b18-9a97-589acde027d7")
-		)
-		(pin "1_3"
-			(uuid "6e480cec-f5e8-4d82-a147-b0c866586719")
-		)
-		(instances
-			(project "Custom Inverter PCB"
-				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "Q2")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -3804,7 +3327,7 @@
 	)
 	(symbol
 		(lib_id "5002:5002")
-		(at 209.55 46.99 90)
+		(at 208.28 44.45 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3813,7 +3336,7 @@
 		(fields_autoplaced yes)
 		(uuid "2f7e3f00-c64f-401b-bcfc-1cb89145450f")
 		(property "Reference" "TP7"
-			(at 212.09 45.7199 90)
+			(at 210.82 43.1799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3822,7 +3345,7 @@
 			)
 		)
 		(property "Value" "5002"
-			(at 212.09 48.2599 90)
+			(at 210.82 45.7199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3831,7 +3354,7 @@
 			)
 		)
 		(property "Footprint" "5002:KEYSTONE_5002"
-			(at 209.55 46.99 0)
+			(at 208.28 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3841,7 +3364,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 209.55 46.99 0)
+			(at 208.28 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3850,7 +3373,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 209.55 46.99 0)
+			(at 208.28 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3859,7 +3382,7 @@
 			)
 		)
 		(property "PARTREV" "H"
-			(at 209.55 46.99 0)
+			(at 208.28 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3869,7 +3392,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 209.55 46.99 0)
+			(at 208.28 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3879,7 +3402,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "5000"
-			(at 209.55 46.99 0)
+			(at 208.28 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3889,7 +3412,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "4.57 mm"
-			(at 209.55 46.99 0)
+			(at 208.28 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3899,7 +3422,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Keystone"
-			(at 209.55 46.99 0)
+			(at 208.28 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3909,7 +3432,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 209.55 46.99 0)
+			(at 208.28 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3930,6 +3453,89 @@
 		)
 	)
 	(symbol
+		(lib_name "Q_NMOS_1")
+		(lib_id "Device:Q_NMOS")
+		(at 55.88 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "30f22df9-ea07-4192-93ff-193b2fba56a6")
+		(property "Reference" "Q2"
+			(at 62.23 74.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "IRFB4115PBF"
+			(at 62.23 77.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
+			(at 60.96 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.infineon.com/dgdl/irfb4115pbf.pdf?fileId=5546d462533600a401535615ba6a1e0f"
+			(at 55.88 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "N-Channel 150 V 104A (Tc) 380W (Tc) Through Hole TO-220AB"
+			(at 55.88 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "IRFB4115PBF"
+			(at 55.88 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d78fce89-d1b4-4201-bbe2-8ebbcbf5b8ec")
+		)
+		(pin "1"
+			(uuid "2dc9bb47-d723-4efa-b16e-98d1b34c94d4")
+		)
+		(pin "3"
+			(uuid "d4b1dc20-9d23-4126-940b-58b167122c33")
+		)
+		(instances
+			(project "Custom Inverter PCB"
+				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
+					(reference "Q2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 242.57 43.18 0)
 		(unit 1)
@@ -3939,7 +3545,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "33357de1-8ce2-4fa4-8432-51626dcd3a6a")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR032"
 			(at 242.57 49.53 0)
 			(effects
 				(font
@@ -3989,130 +3595,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "#PWR028")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "CSD19532Q5B:CSD19532Q5B")
-		(at 229.87 49.53 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "388d2527-7c90-4c77-bcab-2714369acb6b")
-		(property "Reference" "Q5"
-			(at 236.22 48.2599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "CSD19532Q5B"
-			(at 236.22 50.7999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "CSD19532Q5B:TRANS_CSD19532Q5B"
-			(at 229.87 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcsd19532q5b"
-			(at 229.87 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MOSFET N-CH 100V 100A 8VSON"
-			(at 229.87 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "B"
-			(at 229.87 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 229.87 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "1.05 mm"
-			(at 229.87 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Texas Instruments"
-			(at 229.87 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Part Number" ""
-			(at 229.87 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "62ed5fac-2b83-468c-a921-7aaa8121f647")
-		)
-		(pin "5_8"
-			(uuid "3d123909-6d7e-4ea5-ae05-f7a09ba4bb91")
-		)
-		(pin "1_3"
-			(uuid "36493f98-452c-4a6a-90e8-72eb1c744ad4")
-		)
-		(instances
-			(project "Custom Inverter PCB"
-				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "Q5")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -4120,7 +3603,7 @@
 	)
 	(symbol
 		(lib_id "5002:5002")
-		(at 29.21 46.99 90)
+		(at 30.48 44.45 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4128,8 +3611,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ad0d3ef-bc54-415b-8d29-2476a6e1cded")
-		(property "Reference" "TP2"
-			(at 31.75 45.7199 90)
+		(property "Reference" "TP1"
+			(at 33.02 43.1799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4138,7 +3621,7 @@
 			)
 		)
 		(property "Value" "5002"
-			(at 31.75 48.2599 90)
+			(at 33.02 45.7199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4147,7 +3630,7 @@
 			)
 		)
 		(property "Footprint" "5002:KEYSTONE_5002"
-			(at 29.21 46.99 0)
+			(at 30.48 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4157,7 +3640,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 46.99 0)
+			(at 30.48 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4166,7 +3649,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 29.21 46.99 0)
+			(at 30.48 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4175,7 +3658,7 @@
 			)
 		)
 		(property "PARTREV" "H"
-			(at 29.21 46.99 0)
+			(at 30.48 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4185,7 +3668,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 29.21 46.99 0)
+			(at 30.48 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4195,7 +3678,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "5000"
-			(at 29.21 46.99 0)
+			(at 30.48 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4205,7 +3688,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "4.57 mm"
-			(at 29.21 46.99 0)
+			(at 30.48 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4215,7 +3698,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Keystone"
-			(at 29.21 46.99 0)
+			(at 30.48 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4225,7 +3708,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 29.21 46.99 0)
+			(at 30.48 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4239,7 +3722,7 @@
 		(instances
 			(project ""
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "TP2")
+					(reference "TP1")
 					(unit 1)
 				)
 			)
@@ -4255,7 +3738,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c82adc2-ddb0-4747-8d63-66ddb4e132c5")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR028"
 			(at 146.05 113.03 0)
 			(effects
 				(font
@@ -4305,7 +3788,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "#PWR023")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -4320,7 +3803,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "40a636a5-34cd-4744-9f4d-74b1c1a6649e")
-		(property "Reference" "F5"
+		(property "Reference" "F2"
 			(at 80.518 64.008 0)
 			(effects
 				(font
@@ -4383,7 +3866,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "F5")
+					(reference "F2")
 					(unit 1)
 				)
 			)
@@ -4391,7 +3874,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 222.25 78.74 90)
+		(at 219.71 76.2 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4399,8 +3882,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4a85495a-d893-4431-a7f9-f357ed869bdc")
-		(property "Reference" "R7"
-			(at 222.25 72.39 90)
+		(property "Reference" "R8"
+			(at 219.71 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4408,7 +3891,7 @@
 			)
 		)
 		(property "Value" "15R"
-			(at 222.25 74.93 90)
+			(at 219.71 72.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4416,7 +3899,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 222.25 80.518 90)
+			(at 219.71 77.978 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4425,7 +3908,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.ca/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ150V/82975?s=N4IgTCBcDaIKICUBSBaAbAcTgTSQRgFYAGANRAF0BfIA"
-			(at 222.25 78.74 0)
+			(at 219.71 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4434,7 +3917,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 222.25 78.74 0)
+			(at 219.71 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4443,7 +3926,7 @@
 			)
 		)
 		(property "Part Number" "ERJ-6GEYJ150V"
-			(at 222.25 78.74 0)
+			(at 219.71 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4460,7 +3943,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "R7")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -4468,7 +3951,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 220.98 52.07 90)
+		(at 219.71 49.53 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4476,8 +3959,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "60c21bb0-c8fc-4d04-8b44-33b05602e5a4")
-		(property "Reference" "R6"
-			(at 220.98 45.72 90)
+		(property "Reference" "R7"
+			(at 219.71 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4485,7 +3968,7 @@
 			)
 		)
 		(property "Value" "15R"
-			(at 220.98 48.26 90)
+			(at 219.71 45.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4493,7 +3976,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 220.98 53.848 90)
+			(at 219.71 51.308 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4502,7 +3985,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.ca/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ150V/82975?s=N4IgTCBcDaIKICUBSBaAbAcTgTSQRgFYAGANRAF0BfIA"
-			(at 220.98 52.07 0)
+			(at 219.71 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4511,7 +3994,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 220.98 52.07 0)
+			(at 219.71 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4520,7 +4003,7 @@
 			)
 		)
 		(property "Part Number" "ERJ-6GEYJ150V"
-			(at 220.98 52.07 0)
+			(at 219.71 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4537,7 +4020,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "R6")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -4545,7 +4028,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 43.18 78.74 90)
+		(at 43.18 76.2 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4553,8 +4036,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "688c3085-faf1-4b5f-bfe1-9bef3029214f")
-		(property "Reference" "R2"
-			(at 43.18 72.39 90)
+		(property "Reference" "R4"
+			(at 43.18 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4562,7 +4045,7 @@
 			)
 		)
 		(property "Value" "15R"
-			(at 43.18 74.93 90)
+			(at 43.18 72.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4570,7 +4053,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 43.18 80.518 90)
+			(at 43.18 77.978 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4579,7 +4062,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.ca/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ150V/82975?s=N4IgTCBcDaIKICUBSBaAbAcTgTSQRgFYAGANRAF0BfIA"
-			(at 43.18 78.74 0)
+			(at 43.18 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4588,7 +4071,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 43.18 78.74 0)
+			(at 43.18 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4597,7 +4080,7 @@
 			)
 		)
 		(property "Part Number" "ERJ-6GEYJ150V"
-			(at 43.18 78.74 0)
+			(at 43.18 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4614,130 +4097,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "CSD19532Q5B:CSD19532Q5B")
-		(at 229.87 76.2 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6999438b-1a51-43f2-8ed6-682ef8bb344c")
-		(property "Reference" "Q6"
-			(at 236.22 74.9299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "CSD19532Q5B"
-			(at 236.22 77.4699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "CSD19532Q5B:TRANS_CSD19532Q5B"
-			(at 229.87 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcsd19532q5b"
-			(at 229.87 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MOSFET N-CH 100V 100A 8VSON"
-			(at 229.87 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "B"
-			(at 229.87 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 229.87 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "1.05 mm"
-			(at 229.87 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Texas Instruments"
-			(at 229.87 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Part Number" ""
-			(at 229.87 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "d0d4d028-dff2-4d88-9d02-d4b10e90d06f")
-		)
-		(pin "5_8"
-			(uuid "1a0e8da4-a5f1-4de0-925c-97a6676e39ba")
-		)
-		(pin "1_3"
-			(uuid "c8fa15ef-f516-43fb-bba3-7eda1688fbff")
-		)
-		(instances
-			(project "Custom Inverter PCB"
-				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "Q6")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -4745,7 +4105,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 134.62 52.07 90)
+		(at 132.08 49.53 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4753,8 +4113,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a81bc8e-7ffd-419e-a2d5-ec24c3cda671")
-		(property "Reference" "R3"
-			(at 134.62 45.72 90)
+		(property "Reference" "R6"
+			(at 132.08 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4762,7 +4122,7 @@
 			)
 		)
 		(property "Value" "15R"
-			(at 134.62 48.26 90)
+			(at 132.08 45.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4770,7 +4130,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 134.62 53.848 90)
+			(at 132.08 51.308 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4779,7 +4139,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.ca/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ150V/82975?s=N4IgTCBcDaIKICUBSBaAbAcTgTSQRgFYAGANRAF0BfIA"
-			(at 134.62 52.07 0)
+			(at 132.08 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4788,7 +4148,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 134.62 52.07 0)
+			(at 132.08 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4797,7 +4157,7 @@
 			)
 		)
 		(property "Part Number" "ERJ-6GEYJ150V"
-			(at 134.62 52.07 0)
+			(at 132.08 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4814,7 +4174,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "R3")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -4830,7 +4190,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "75d53946-54ca-4d58-b47e-22a8cf7706ae")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR031"
 			(at 232.41 113.03 0)
 			(effects
 				(font
@@ -4880,7 +4240,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "#PWR027")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -4896,7 +4256,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f35c4d4-b5db-4175-a5a8-e7cd91ec04a2")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR029"
 			(at 156.21 49.53 0)
 			(effects
 				(font
@@ -4946,7 +4306,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "#PWR024")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -4962,7 +4322,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f91b234-4ea6-41f0-9385-4a2f41ed75b2")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR025"
 			(at 58.42 113.03 0)
 			(effects
 				(font
@@ -5012,130 +4372,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "#PWR018")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "CSD19532Q5B:CSD19532Q5B")
-		(at 55.88 49.53 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "84cc2808-a96e-4bdf-b98c-9e0f2c4705ae")
-		(property "Reference" "Q1"
-			(at 62.23 48.2599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "CSD19532Q5B"
-			(at 62.23 50.7999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "CSD19532Q5B:TRANS_CSD19532Q5B"
-			(at 55.88 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/csd19532q5b.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1748435116851&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Fcsd19532q5b"
-			(at 55.88 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MOSFET N-CH 100V 100A 8VSON"
-			(at 55.88 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "B"
-			(at 55.88 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 55.88 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "1.05 mm"
-			(at 55.88 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Texas Instruments"
-			(at 55.88 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Part Number" ""
-			(at 55.88 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "b1e29c3d-ac86-4ef6-a3ab-f8d98fe44f11")
-		)
-		(pin "5_8"
-			(uuid "c5c0114d-6ca3-41be-9cdf-aaf1a7861b41")
-		)
-		(pin "1_3"
-			(uuid "cbfefe4f-e23f-4ca7-83f8-31478275221f")
-		)
-		(instances
-			(project ""
-				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "Q1")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -5151,7 +4388,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ccd9976-c8eb-402b-95c7-8b9140d5f125")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR023"
 			(at 50.8 154.94 0)
 			(effects
 				(font
@@ -5202,7 +4439,7 @@
 		(instances
 			(project ""
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "#PWR017")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -5218,7 +4455,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92dae383-ea4d-4443-af40-75a763f84d76")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR030"
 			(at 232.41 31.75 0)
 			(effects
 				(font
@@ -5277,7 +4514,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "#PWR026")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -5293,7 +4530,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "98d2d64e-5c11-4479-a35a-6f8bad4efc84")
-		(property "Reference" "C6"
+		(property "Reference" "C8"
 			(at 160.02 38.0999 0)
 			(effects
 				(font
@@ -5356,7 +4593,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "C6")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -5371,7 +4608,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9d0bc77a-86a1-4fba-ba40-b1ba081b4b5e")
-		(property "Reference" "F6"
+		(property "Reference" "F3"
 			(at 170.688 64.008 0)
 			(effects
 				(font
@@ -5434,7 +4671,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "F6")
+					(reference "F3")
 					(unit 1)
 				)
 			)
@@ -5442,7 +4679,7 @@
 	)
 	(symbol
 		(lib_id "5002:5002")
-		(at 121.92 73.66 90)
+		(at 119.38 71.12 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5451,7 +4688,7 @@
 		(fields_autoplaced yes)
 		(uuid "9f010cbd-1847-4b3d-b81c-b638b8b3740b")
 		(property "Reference" "TP5"
-			(at 124.46 72.3899 90)
+			(at 121.92 69.8499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5460,7 +4697,7 @@
 			)
 		)
 		(property "Value" "5002"
-			(at 124.46 74.9299 90)
+			(at 121.92 72.3899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5469,7 +4706,7 @@
 			)
 		)
 		(property "Footprint" "5002:KEYSTONE_5002"
-			(at 121.92 73.66 0)
+			(at 119.38 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5479,7 +4716,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 73.66 0)
+			(at 119.38 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5488,7 +4725,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 121.92 73.66 0)
+			(at 119.38 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5497,7 +4734,7 @@
 			)
 		)
 		(property "PARTREV" "H"
-			(at 121.92 73.66 0)
+			(at 119.38 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5507,7 +4744,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 121.92 73.66 0)
+			(at 119.38 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5517,7 +4754,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "5000"
-			(at 121.92 73.66 0)
+			(at 119.38 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5527,7 +4764,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "4.57 mm"
-			(at 121.92 73.66 0)
+			(at 119.38 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5537,7 +4774,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Keystone"
-			(at 121.92 73.66 0)
+			(at 119.38 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5547,7 +4784,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 121.92 73.66 0)
+			(at 119.38 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5577,7 +4814,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9f72cb90-cde4-41b3-930d-17ef86cf82e0")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR022"
 			(at 29.21 193.04 0)
 			(effects
 				(font
@@ -5637,7 +4874,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "#PWR015")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -5653,7 +4890,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aaffef29-c39f-4049-854a-202718d5043e")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR027"
 			(at 146.05 31.75 0)
 			(effects
 				(font
@@ -5712,24 +4949,25 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "#PWR022")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "CSD19532Q5B:CSD19532Q5B")
-		(at 143.51 76.2 0)
+		(lib_name "Q_NMOS_1")
+		(lib_id "Device:Q_NMOS")
+		(at 55.88 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "b31f05e1-13b1-43ec-8186-54a3c7d01c30")
-		(property "Reference" "Q4"
-			(at 149.86 74.9299 0)
+		(uuid "b3704dbc-2ef5-4bc9-8267-640b95b5923f")
+		(property "Reference" "Q1"
+			(at 62.23 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5737,8 +4975,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CSD19532Q5B"
-			(at 149.86 77.4699 0)
+		(property "Value" "IRFB4115PBF"
+			(at 62.23 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5746,18 +4984,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CSD19532Q5B:TRANS_CSD19532Q5B"
-			(at 143.51 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/csd19532q5b.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1748435116851&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Fcsd19532q5b"
-			(at 143.51 76.2 0)
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
+			(at 60.96 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5765,8 +4993,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "MOSFET N-CH 100V 100A 8VSON"
-			(at 143.51 76.2 0)
+		(property "Datasheet" "https://www.infineon.com/dgdl/irfb4115pbf.pdf?fileId=5546d462533600a401535615ba6a1e0f"
+			(at 55.88 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5774,48 +5002,8 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "B"
-			(at 143.51 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 143.51 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "1.05 mm"
-			(at 143.51 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Texas Instruments"
-			(at 143.51 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Part Number" ""
-			(at 143.51 76.2 0)
+		(property "Description" "N-Channel 150 V 104A (Tc) 380W (Tc) Through Hole TO-220AB"
+			(at 55.88 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5823,19 +5011,28 @@
 				(hide yes)
 			)
 		)
-		(pin "4"
-			(uuid "fba8aa90-d072-4aca-babe-34c5d9ff3be4")
+		(property "Part Number" "IRFB4115PBF"
+			(at 55.88 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
 		)
-		(pin "5_8"
-			(uuid "db72e364-7cf9-4f3d-8b9c-dff8f599992d")
+		(pin "2"
+			(uuid "c57c519b-f4c7-4dd8-9c85-a8b821b0d78a")
 		)
-		(pin "1_3"
-			(uuid "e63ae6bf-7ca4-4714-92f3-8e0d28eea1e3")
+		(pin "1"
+			(uuid "fb6d5042-9e94-4936-ba20-971b32575a21")
+		)
+		(pin "3"
+			(uuid "465ef28e-7cad-4f8b-beeb-53dee684df57")
 		)
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "Q4")
+					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -5851,7 +5048,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b783d3e9-cd13-4d07-83a9-a41733eacdf4")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR024"
 			(at 58.42 31.75 0)
 			(effects
 				(font
@@ -5910,7 +5107,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "#PWR016")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -5918,15 +5115,15 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 133.35 78.74 90)
+		(at 130.81 76.2 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "c09b20ef-494e-4858-96f0-751c65212917")
-		(property "Reference" "R4"
-			(at 134.62 72.39 90)
+		(property "Reference" "R5"
+			(at 132.08 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5934,7 +5131,7 @@
 			)
 		)
 		(property "Value" "15R"
-			(at 133.35 74.93 90)
+			(at 130.81 72.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5942,7 +5139,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 133.35 80.518 90)
+			(at 130.81 77.978 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5951,7 +5148,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.ca/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ150V/82975?s=N4IgTCBcDaIKICUBSBaAbAcTgTSQRgFYAGANRAF0BfIA"
-			(at 133.35 78.74 0)
+			(at 130.81 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5960,7 +5157,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 133.35 78.74 0)
+			(at 130.81 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5969,7 +5166,7 @@
 			)
 		)
 		(property "Part Number" "ERJ-6GEYJ150V"
-			(at 133.35 78.74 0)
+			(at 130.81 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5986,7 +5183,90 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "R4")
+					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "Q_NMOS_1")
+		(lib_id "Device:Q_NMOS")
+		(at 229.87 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c170b0b5-6c96-42e9-ab09-89d026c68906")
+		(property "Reference" "Q6"
+			(at 236.22 74.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "IRFB4115PBF"
+			(at 236.22 77.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
+			(at 234.95 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.infineon.com/dgdl/irfb4115pbf.pdf?fileId=5546d462533600a401535615ba6a1e0f"
+			(at 229.87 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "N-Channel 150 V 104A (Tc) 380W (Tc) Through Hole TO-220AB"
+			(at 229.87 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "IRFB4115PBF"
+			(at 229.87 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "56512ed3-ad78-4d6f-9cdf-1283cd99c0a3")
+		)
+		(pin "1"
+			(uuid "c10164c8-8e9f-40cb-9f1a-36247035b56a")
+		)
+		(pin "3"
+			(uuid "6dc41c63-2cba-40e4-9b45-0a56eddef08d")
+		)
+		(instances
+			(project "Custom Inverter PCB"
+				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
+					(reference "Q6")
 					(unit 1)
 				)
 			)
@@ -6120,7 +5400,7 @@
 	)
 	(symbol
 		(lib_id "5002:5002")
-		(at 210.82 73.66 90)
+		(at 208.28 71.12 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6129,7 +5409,7 @@
 		(fields_autoplaced yes)
 		(uuid "ce4e1a43-fa5b-42a5-a254-8b32775b3ffa")
 		(property "Reference" "TP8"
-			(at 213.36 72.3899 90)
+			(at 210.82 69.8499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6138,7 +5418,7 @@
 			)
 		)
 		(property "Value" "5002"
-			(at 213.36 74.9299 90)
+			(at 210.82 72.3899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6147,7 +5427,7 @@
 			)
 		)
 		(property "Footprint" "5002:KEYSTONE_5002"
-			(at 210.82 73.66 0)
+			(at 208.28 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6157,7 +5437,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 210.82 73.66 0)
+			(at 208.28 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6166,7 +5446,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 210.82 73.66 0)
+			(at 208.28 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6175,7 +5455,7 @@
 			)
 		)
 		(property "PARTREV" "H"
-			(at 210.82 73.66 0)
+			(at 208.28 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6185,7 +5465,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 210.82 73.66 0)
+			(at 208.28 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6195,7 +5475,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "5000"
-			(at 210.82 73.66 0)
+			(at 208.28 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6205,7 +5485,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "4.57 mm"
-			(at 210.82 73.66 0)
+			(at 208.28 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6215,7 +5495,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Keystone"
-			(at 210.82 73.66 0)
+			(at 208.28 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6225,7 +5505,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 210.82 73.66 0)
+			(at 208.28 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6254,7 +5534,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d3c6b7bc-9c45-4c62-848a-feb66d0395f0")
-		(property "Reference" "F7"
+		(property "Reference" "F4"
 			(at 263.398 64.008 0)
 			(effects
 				(font
@@ -6317,7 +5597,90 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "F7")
+					(reference "F4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "Q_NMOS_1")
+		(lib_id "Device:Q_NMOS")
+		(at 229.87 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d40df5f4-1734-4176-9a0b-04a01873d0e0")
+		(property "Reference" "Q5"
+			(at 236.22 48.2599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "IRFB4115PBF"
+			(at 236.22 50.7999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
+			(at 234.95 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.infineon.com/dgdl/irfb4115pbf.pdf?fileId=5546d462533600a401535615ba6a1e0f"
+			(at 229.87 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "N-Channel 150 V 104A (Tc) 380W (Tc) Through Hole TO-220AB"
+			(at 229.87 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "IRFB4115PBF"
+			(at 229.87 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "404dabed-9d13-4b82-8b3a-6c71e62cfbc4")
+		)
+		(pin "1"
+			(uuid "09d89baf-037c-483d-874e-c957ad6ab848")
+		)
+		(pin "3"
+			(uuid "f2d230f3-079e-452f-b896-8410c758d8e7")
+		)
+		(instances
+			(project "Custom Inverter PCB"
+				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
+					(reference "Q5")
 					(unit 1)
 				)
 			)
@@ -6325,7 +5688,7 @@
 	)
 	(symbol
 		(lib_id "5002:5002")
-		(at 120.65 46.99 90)
+		(at 119.38 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6333,8 +5696,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e28f785c-973b-4ce8-8cde-6d9b0f70f904")
-		(property "Reference" "TP3"
-			(at 123.19 45.7199 90)
+		(property "Reference" "TP4"
+			(at 121.92 41.9099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6343,7 +5706,7 @@
 			)
 		)
 		(property "Value" "5002"
-			(at 123.19 48.2599 90)
+			(at 121.92 44.4499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6352,7 +5715,7 @@
 			)
 		)
 		(property "Footprint" "5002:KEYSTONE_5002"
-			(at 120.65 46.99 0)
+			(at 119.38 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6362,7 +5725,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 120.65 46.99 0)
+			(at 119.38 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6371,7 +5734,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 120.65 46.99 0)
+			(at 119.38 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6380,7 +5743,7 @@
 			)
 		)
 		(property "PARTREV" "H"
-			(at 120.65 46.99 0)
+			(at 119.38 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6390,7 +5753,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 120.65 46.99 0)
+			(at 119.38 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6400,7 +5763,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "5000"
-			(at 120.65 46.99 0)
+			(at 119.38 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6410,7 +5773,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "4.57 mm"
-			(at 120.65 46.99 0)
+			(at 119.38 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6420,7 +5783,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Keystone"
-			(at 120.65 46.99 0)
+			(at 119.38 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6430,7 +5793,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 120.65 46.99 0)
+			(at 119.38 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6444,7 +5807,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "TP3")
+					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -6460,7 +5823,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4c7e723-b1ac-4394-8cee-9e370f0e1b97")
-		(property "Reference" "C8"
+		(property "Reference" "C9"
 			(at 246.38 38.0999 0)
 			(effects
 				(font
@@ -6523,130 +5886,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "C8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "CSD19532Q5B:CSD19532Q5B")
-		(at 143.51 49.53 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e878c7bd-7255-45d8-be65-1744107d5d94")
-		(property "Reference" "Q3"
-			(at 149.86 48.2599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "CSD19532Q5B"
-			(at 149.86 50.7999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "CSD19532Q5B:TRANS_CSD19532Q5B"
-			(at 143.51 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/csd19532q5b.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1748435116851&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Fcsd19532q5b"
-			(at 143.51 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MOSFET N-CH 100V 100A 8VSON"
-			(at 143.51 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "B"
-			(at 143.51 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 143.51 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "1.05 mm"
-			(at 143.51 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Texas Instruments"
-			(at 143.51 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Part Number" ""
-			(at 143.51 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "8a9d221e-e716-480e-9ad2-cf87bc8c403f")
-		)
-		(pin "5_8"
-			(uuid "2cd0a7d9-48aa-4a39-8cbc-d845b7d6b71e")
-		)
-		(pin "1_3"
-			(uuid "174e8b94-c268-4d0a-8ce9-022cb04de287")
-		)
-		(instances
-			(project "Custom Inverter PCB"
-				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "Q3")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -6662,7 +5902,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff220247-eed9-4575-ab2d-cc69afd409fb")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR026"
 			(at 68.58 49.53 0)
 			(effects
 				(font
@@ -6712,7 +5952,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/dd00afae-8344-4250-8f9c-c68c6680e783"
-					(reference "#PWR020")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
