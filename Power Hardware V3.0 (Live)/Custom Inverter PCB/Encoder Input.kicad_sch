@@ -2274,10 +2274,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "1cb28d47-8a44-48d0-8133-8899c676e0c9")
+			(uuid "1cb28d47-8a44-48d0-8133-8899c676e0ca")
 		)
 		(pin "1"
-			(uuid "4e84bcdd-5946-418e-a14b-4df67061877f")
+			(uuid "4e84bcdd-5946-418e-a14b-4df670618780")
 		)
 		(instances
 			(project "Custom Inverter PCB"
@@ -2598,7 +2598,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "b2eebfd1-c65a-4393-aa3f-e7afc204bddf")
+			(uuid "b2eebfd1-c65a-4393-aa3f-e7afc204bde0")
 		)
 		(instances
 			(project "Custom Inverter PCB"
@@ -3474,7 +3474,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "6129e294-7a3c-46b6-81bf-2f66d4f6471f")
+			(uuid "6129e294-7a3c-46b6-81bf-2f66d4f64720")
 		)
 		(instances
 			(project "Custom Inverter PCB"

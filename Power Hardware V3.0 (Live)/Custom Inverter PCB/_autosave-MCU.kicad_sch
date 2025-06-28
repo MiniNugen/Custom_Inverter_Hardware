@@ -6268,6 +6268,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 106.68 81.28 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3d1d9afe-088f-443e-9e13-253b6c824177")
+		(property "Reference" "#PWR0103"
+			(at 110.49 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3VDC"
+			(at 102.87 81.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 106.68 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 106.68 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 106.68 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "021d50bd-5326-4c75-9457-da81c25d4006")
+		)
+		(instances
+			(project "Custom Inverter PCB"
+				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/0b285de8-9ee2-45ab-8a02-21d3047a383b"
+					(reference "#PWR0103")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 52.07 36.83 90)
 		(unit 1)
@@ -7068,72 +7135,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 106.68 81.28 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7dcbd7a6-22d6-49f0-b865-6cadc67b3fb2")
-		(property "Reference" "#PWR018"
-			(at 110.49 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 101.6 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 106.68 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 106.68 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 106.68 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c2d27726-b0ec-4ebb-999c-d95f6be574ba")
-		)
-		(instances
-			(project "Custom Inverter PCB"
-				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/0b285de8-9ee2-45ab-8a02-21d3047a383b"
-					(reference "#PWR018")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "10897202:10897202")
 		(at 196.85 105.41 0)
 		(unit 1)
@@ -7318,72 +7319,6 @@
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/0b285de8-9ee2-45ab-8a02-21d3047a383b"
 					(reference "#PWR019")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 185.42 35.56 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8f4cb846-c60b-4710-9bcb-430d4e6d1ce6")
-		(property "Reference" "#PWR020"
-			(at 189.23 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 180.34 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 185.42 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 185.42 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 185.42 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c9753e97-8146-455e-87bc-f948c5697680")
-		)
-		(instances
-			(project "Custom Inverter PCB"
-				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/0b285de8-9ee2-45ab-8a02-21d3047a383b"
-					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -8128,6 +8063,73 @@
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/0b285de8-9ee2-45ab-8a02-21d3047a383b"
 					(reference "C27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 185.42 35.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cf76312b-b69b-485e-ab4e-64fe7fdab9f8")
+		(property "Reference" "#PWR018"
+			(at 189.23 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3VDC"
+			(at 181.61 35.5599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 185.42 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 185.42 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4edc8ccd-0cdb-4690-8950-535a824ce93b")
+		)
+		(instances
+			(project "Custom Inverter PCB"
+				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/0b285de8-9ee2-45ab-8a02-21d3047a383b"
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
