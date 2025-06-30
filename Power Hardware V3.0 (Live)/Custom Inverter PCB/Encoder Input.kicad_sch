@@ -1093,7 +1093,7 @@
 		)
 		(uuid "456c3fa6-6ad4-401c-a201-97637560c7f5")
 	)
-	(text "-Changed 3.3V regulator to a higher power unit for the sin-cos circuit (from 500mA to 3A)\n- Differential Opamp for subtracting some DC voltage from the Sin-Cos input\n"
+	(text "- Differential Opamp for subtracting some DC voltage from the Sin-Cos input\n"
 		(exclude_from_sim no)
 		(at 164.084 106.934 0)
 		(effects

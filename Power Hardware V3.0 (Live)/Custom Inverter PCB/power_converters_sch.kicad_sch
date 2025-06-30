@@ -2561,7 +2561,7 @@
 		(uuid 6706021e-e543-447b-b3be-63990dbf92f7)
 	)
 	(rectangle
-		(start 76.2 78.74)
+		(start 73.66 78.74)
 		(end 180.34 120.65)
 		(stroke
 			(width 0)
@@ -2585,7 +2585,7 @@
 		(uuid 965cc92c-af9a-4e6a-bb9b-b81400638388)
 	)
 	(rectangle
-		(start 76.2 127)
+		(start 73.66 127)
 		(end 182.88 161.29)
 		(stroke
 			(width 0)

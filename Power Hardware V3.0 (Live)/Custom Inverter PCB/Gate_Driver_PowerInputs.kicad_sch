@@ -3263,16 +3263,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 83.82) (xy 90.17 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "076c4d65-dec8-453d-b1e6-8663b0426997")
-	)
-	(wire
-		(pts
 			(xy 172.72 50.8) (xy 175.26 50.8)
 		)
 		(stroke
@@ -3310,16 +3300,6 @@
 			(type default)
 		)
 		(uuid "0ba5bc03-93bc-4ae2-9271-ef7969ba3f64")
-	)
-	(wire
-		(pts
-			(xy 90.17 83.82) (xy 90.17 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "111bcc03-f729-4277-863d-7c55a365df5e")
 	)
 	(wire
 		(pts
@@ -3413,7 +3393,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 83.82) (xy 82.55 83.82)
+			(xy 76.2 77.47) (xy 91.44 77.47)
 		)
 		(stroke
 			(width 0)
@@ -3460,16 +3440,6 @@
 			(type default)
 		)
 		(uuid "388b36b5-819b-4bdf-8a11-ed5d37cee412")
-	)
-	(wire
-		(pts
-			(xy 66.04 77.47) (xy 66.04 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "38925b4f-ffad-4c64-94b7-f68f1404e09f")
 	)
 	(wire
 		(pts
@@ -3613,7 +3583,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 74.93) (xy 113.03 74.93)
+			(xy 93.98 77.47) (xy 113.03 77.47)
 		)
 		(stroke
 			(width 0)
@@ -3950,16 +3920,6 @@
 			(type default)
 		)
 		(uuid "d8c93411-64ba-46b7-94cb-224d57f3ebad")
-	)
-	(wire
-		(pts
-			(xy 113.03 74.93) (xy 113.03 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "db575955-7c8d-41f9-b23f-f424d511a123")
 	)
 	(wire
 		(pts
@@ -6555,7 +6515,7 @@
 	)
 	(symbol
 		(lib_id "1990009 2P term:1990009")
-		(at 85.09 91.44 270)
+		(at 93.98 85.09 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6564,7 +6524,7 @@
 		(fields_autoplaced yes)
 		(uuid "6f18aa64-e3e8-4206-b317-e04690e0c25a")
 		(property "Reference" "J1"
-			(at 88.9 90.8049 90)
+			(at 97.79 84.4549 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6573,7 +6533,7 @@
 			)
 		)
 		(property "Value" "1990009"
-			(at 88.9 93.3449 90)
+			(at 97.79 86.9949 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6582,7 +6542,7 @@
 			)
 		)
 		(property "Footprint" "2P term 1990009:PHOENIX_1990009"
-			(at 85.09 91.44 0)
+			(at 93.98 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6592,7 +6552,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.09 91.44 0)
+			(at 93.98 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6601,7 +6561,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 85.09 91.44 0)
+			(at 93.98 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6610,7 +6570,7 @@
 			)
 		)
 		(property "PARTREV" "03.02.2023"
-			(at 85.09 91.44 0)
+			(at 93.98 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6620,7 +6580,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 85.09 91.44 0)
+			(at 93.98 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6630,7 +6590,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "13.1mm"
-			(at 85.09 91.44 0)
+			(at 93.98 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6640,7 +6600,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Phoenix Contact"
-			(at 85.09 91.44 0)
+			(at 93.98 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8100,7 +8060,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 66.04 77.47 0)
+		(at 76.2 77.47 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8109,7 +8069,7 @@
 		(fields_autoplaced yes)
 		(uuid "dbf167aa-d492-4add-b8a4-b111f3638d21")
 		(property "Reference" "#PWR06"
-			(at 66.04 81.28 0)
+			(at 80.01 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8118,15 +8078,16 @@
 			)
 		)
 		(property "Value" "+12VDC"
-			(at 66.04 72.39 0)
+			(at 72.39 77.4699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 66.04 77.47 0)
+			(at 76.2 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8135,7 +8096,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 77.47 0)
+			(at 76.2 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8144,7 +8105,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 66.04 77.47 0)
+			(at 76.2 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
