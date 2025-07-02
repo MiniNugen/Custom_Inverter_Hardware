@@ -4828,7 +4828,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "DRV8300DIPWR"
 			(at 173.99 30.48 0)
 			(effects
 				(font
@@ -5960,7 +5960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "0463030.ER"
 			(at 64.77 22.86 0)
 			(effects
 				(font
@@ -6390,6 +6390,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "1714971"
+			(at 26.67 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "142533d4-c861-45bb-bbf9-5ca1220969b2")
 		)
@@ -6550,7 +6559,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "1714968"
 			(at 265.43 90.17 0)
 			(effects
 				(font
@@ -6679,7 +6688,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "LD1085D2M33R"
+		(property "Datasheet" ""
 			(at 133.35 147.32 0)
 			(effects
 				(font
@@ -6690,6 +6699,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 133.35 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "LD1085D2M33R"
 			(at 133.35 147.32 0)
 			(effects
 				(font
@@ -6881,6 +6899,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "1714971"
+			(at 82.55 116.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6eae43e2-120d-453e-81a2-635d11cd1129")
 		)
@@ -7046,7 +7073,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "T9AS1D12-12"
 			(at 123.19 67.31 0)
 			(effects
 				(font
@@ -7169,6 +7196,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "1714971"
+			(at 85.09 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -7344,6 +7380,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "1714971"
+			(at 26.67 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)

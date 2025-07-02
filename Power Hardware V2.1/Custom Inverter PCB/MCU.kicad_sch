@@ -6095,6 +6095,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "10897202"
+			(at 217.17 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "c7253a3e-a828-4ea1-b1eb-d44720773f4b")
 		)
@@ -6405,7 +6414,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "LAUNCHXL-F280049C"
 			(at 135.89 78.74 0)
 			(effects
 				(font
@@ -6828,6 +6837,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "10897202"
+			(at 196.85 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "edc7ebee-b883-418d-bd67-b0e1f0f4db00")
 		)
@@ -7086,6 +7104,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "10897202"
+			(at 257.81 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "b93a3d47-fa3e-40e0-8914-a2fe747351d7")
 		)
@@ -7329,7 +7356,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "LAUNCHXL-F280049C"
 			(at 219.71 55.88 0)
 			(effects
 				(font
@@ -7813,6 +7840,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 236.22 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "10897202"
 			(at 236.22 105.41 0)
 			(effects
 				(font

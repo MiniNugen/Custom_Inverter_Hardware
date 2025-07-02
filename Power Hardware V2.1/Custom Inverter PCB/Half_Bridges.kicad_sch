@@ -3247,7 +3247,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "5002"
 			(at 274.32 57.15 0)
 			(effects
 				(font
@@ -3453,7 +3453,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "5002"
 			(at 92.71 57.15 0)
 			(effects
 				(font
@@ -3580,7 +3580,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "5002"
 			(at 30.48 73.66 0)
 			(effects
 				(font
@@ -3853,7 +3853,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "CSD19532Q5B"
 			(at 55.88 76.2 0)
 			(effects
 				(font
@@ -3986,7 +3986,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "5002"
 			(at 209.55 46.99 0)
 			(effects
 				(font
@@ -4169,7 +4169,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "CSD19532Q5B"
 			(at 229.87 49.53 0)
 			(effects
 				(font
@@ -4302,7 +4302,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "5002"
 			(at 29.21 46.99 0)
 			(effects
 				(font
@@ -4794,7 +4794,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "CSD19532Q5B"
 			(at 229.87 76.2 0)
 			(effects
 				(font
@@ -5192,7 +5192,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "CSD19532Q5B"
 			(at 55.88 49.53 0)
 			(effects
 				(font
@@ -5546,7 +5546,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "5002"
 			(at 121.92 73.66 0)
 			(effects
 				(font
@@ -5814,7 +5814,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "CSD19532Q5B"
 			(at 143.51 76.2 0)
 			(effects
 				(font
@@ -6097,7 +6097,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "5002"
 			(at 181.61 57.15 0)
 			(effects
 				(font
@@ -6224,7 +6224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "5002"
 			(at 210.82 73.66 0)
 			(effects
 				(font
@@ -6351,7 +6351,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "5002"
 			(at 120.65 46.99 0)
 			(effects
 				(font
@@ -6547,7 +6547,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "CSD19532Q5B"
 			(at 143.51 49.53 0)
 			(effects
 				(font

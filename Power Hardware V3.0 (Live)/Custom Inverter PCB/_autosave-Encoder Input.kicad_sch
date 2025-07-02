@@ -11,255 +11,6 @@
 		(company "M.NGUEN, C.O'BRIEN")
 	)
 	(lib_symbols
-		(symbol "Connector:Conn_01x04_Socket"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x04_Socket"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x04, script generated"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Conn_01x04_Socket_1_1"
-				(polyline
-					(pts
-						(xy -1.27 2.54) (xy -0.508 2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 0) (xy -0.508 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -2.54) (xy -0.508 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -5.08) (xy -0.508 -5.08)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 2.032)
-					(mid -0.5058 2.54)
-					(end 0 3.048)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 -0.508)
-					(mid -0.5058 0)
-					(end 0 0.508)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 -3.048)
-					(mid -0.5058 -2.54)
-					(end 0 -2.032)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 -5.588)
-					(mid -0.5058 -5.08)
-					(end 0 -4.572)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 2.54 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -5.08 0)
-					(length 3.81)
-					(name "Pin_4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
@@ -797,6 +548,258 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "PHOENIX_1990041:1990041"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at -6.85 10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "1990041"
+				(at -6.35 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "1990041:PHOENIX_1990041"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "PHOENIX"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "1990041_0_0"
+				(rectangle
+					(start -6.35 -7.62)
+					(end 6.35 10.16)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center -4.445 7.62)
+					(radius 0.635)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -4.445 5.08)
+					(radius 0.635)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -4.445 2.54)
+					(radius 0.635)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -4.445 0)
+					(radius 0.635)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -4.445 -2.54)
+					(radius 0.635)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -4.445 -5.08)
+					(radius 0.635)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -10.16 7.62 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -10.16 5.08 0)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -10.16 2.54 0)
+					(length 5.08)
+					(name "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -10.16 0 0)
+					(length 5.08)
+					(name "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -10.16 -2.54 0)
+					(length 5.08)
+					(name "5"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -10.16 -5.08 0)
+					(length 5.08)
+					(name "6"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:+5V"
 			(power)
 			(pin_numbers
@@ -1049,8 +1052,8 @@
 		(uuid d6633ebd-da6f-4bba-a79a-e5f822d26063)
 	)
 	(rectangle
-		(start 21.59 44.45)
-		(end 49.53 60.96)
+		(start 21.59 52.07)
+		(end 78.74 91.44)
 		(stroke
 			(width 0)
 			(type default)
@@ -1070,9 +1073,9 @@
 		)
 		(uuid "258cd4b0-370d-4914-9f60-c5d3b9ea8db2")
 	)
-	(text "Connector To Resolver\n"
+	(text "Connector To Motor"
 		(exclude_from_sim no)
-		(at 31.496 43.18 0)
+		(at 31.496 50.8 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1090,9 +1093,9 @@
 		)
 		(uuid "456c3fa6-6ad4-401c-a201-97637560c7f5")
 	)
-	(text "-Changed 3.3V regulator to a higher power unit for the sin-cos circuit (from 500mA to 3A)\n-Fixed flipped MOTA,B,C connection to Output Terminal\n- Current Sense IC setup\n- Fuses for Phase current outputs\n- Differential Opamp for subtracting some DC voltage from the Sin-Cos input\n"
+	(text "- Differential Opamp for subtracting some DC voltage from the Sin-Cos input\n"
 		(exclude_from_sim no)
-		(at 69.088 187.706 0)
+		(at 164.084 106.934 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1155,6 +1158,16 @@
 			(type default)
 		)
 		(uuid "1265cdd7-d36d-4943-b664-d9971317a15a")
+	)
+	(wire
+		(pts
+			(xy 43.18 72.39) (xy 57.15 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c9e2a58-5bb9-4525-abb4-7f14f5d92b18")
 	)
 	(wire
 		(pts
@@ -1238,7 +1251,7 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 53.34) (xy 40.64 53.34)
+			(xy 43.18 64.77) (xy 52.07 64.77)
 		)
 		(stroke
 			(width 0)
@@ -1248,7 +1261,7 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 58.42) (xy 39.37 58.42)
+			(xy 43.18 69.85) (xy 52.07 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1288,6 +1301,16 @@
 	)
 	(wire
 		(pts
+			(xy 43.18 74.93) (xy 55.88 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d382286-4c0a-4d3f-b49b-b6a55e104e47")
+	)
+	(wire
+		(pts
 			(xy 195.58 88.9) (xy 195.58 92.71)
 		)
 		(stroke
@@ -1315,6 +1338,16 @@
 			(type default)
 		)
 		(uuid "8d4a7c4c-5c9b-4ad9-8c0e-ba68e6dd9b9d")
+	)
+	(wire
+		(pts
+			(xy 64.77 72.39) (xy 67.31 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e15ad6a-dc70-4578-b85d-fe4ba23d36ed")
 	)
 	(wire
 		(pts
@@ -1368,7 +1401,7 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 55.88) (xy 39.37 55.88)
+			(xy 43.18 67.31) (xy 52.07 67.31)
 		)
 		(stroke
 			(width 0)
@@ -1388,6 +1421,16 @@
 	)
 	(wire
 		(pts
+			(xy 82.55 35.56) (xy 93.98 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bfca59b0-3f01-4d02-8daf-b7866cfca503")
+	)
+	(wire
+		(pts
 			(xy 189.23 69.85) (xy 200.66 69.85)
 		)
 		(stroke
@@ -1395,6 +1438,16 @@
 			(type default)
 		)
 		(uuid "c2227853-7c3a-4aaa-8728-17987ecc05b9")
+	)
+	(wire
+		(pts
+			(xy 55.88 74.93) (xy 55.88 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6465bcf-585c-4e05-ac8a-d3030dcb19ae")
 	)
 	(wire
 		(pts
@@ -1408,7 +1461,7 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 50.8) (xy 40.64 50.8)
+			(xy 43.18 62.23) (xy 52.07 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1547,7 +1600,7 @@
 		(uuid "fb71775e-363e-4857-8c13-30f9839507c3")
 	)
 	(label "SIN_IN"
-		(at 39.37 58.42 180)
+		(at 52.07 69.85 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1566,8 +1619,18 @@
 		)
 		(uuid "2ae523dc-c02e-4a89-9a10-3621c6604627")
 	)
+	(label "Temp+"
+		(at 52.07 72.39 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4e79cff7-c85e-4e4c-b7ca-8eea288992c8")
+	)
 	(label "COS_IN"
-		(at 39.37 55.88 180)
+		(at 52.07 67.31 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1585,6 +1648,26 @@
 			(justify left bottom)
 		)
 		(uuid "7d6370de-6e2b-461b-b196-24964b6fda6d")
+	)
+	(label "Temp+"
+		(at 82.55 35.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "82820e38-c5af-43ee-8fcd-f4d6c3247d38")
+	)
+	(label "Temp-"
+		(at 52.07 74.93 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9551503f-86c0-4629-8eb3-675c2f15beb1")
 	)
 	(label "COS_MCU"
 		(at 119.38 67.31 0)
@@ -1637,6 +1720,17 @@
 		)
 		(uuid "01acf3b0-af6e-498f-8d88-c8c4f066cbe7")
 	)
+	(hierarchical_label "TEMP+"
+		(shape output)
+		(at 93.98 35.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "40ccb053-cae9-4a14-8459-c8c2e35516fb")
+	)
 	(hierarchical_label "+5V"
 		(shape input)
 		(at 33.02 27.94 180)
@@ -1680,7 +1774,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0d32b4d0-f77a-4dc5-91aa-c76587461883")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR059"
 			(at 125.73 100.33 0)
 			(effects
 				(font
@@ -1730,7 +1824,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "#PWR071")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -1744,7 +1838,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 40.64 53.34 90)
+		(at 52.07 64.77 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1752,8 +1846,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1a0a8c28-19bf-404a-9092-67eca755630d")
-		(property "Reference" "#PWR070"
-			(at 46.99 53.34 0)
+		(property "Reference" "#PWR055"
+			(at 58.42 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1762,7 +1856,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 44.45 53.3399 90)
+			(at 55.88 64.7699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1771,7 +1865,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 40.64 53.34 0)
+			(at 52.07 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1780,7 +1874,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 40.64 53.34 0)
+			(at 52.07 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1789,7 +1883,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 40.64 53.34 0)
+			(at 52.07 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1803,7 +1897,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "#PWR070")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -1825,7 +1919,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b18c899-b92f-48a4-9215-5f323af099b5")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR061"
 			(at 195.58 99.06 0)
 			(effects
 				(font
@@ -1875,7 +1969,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "#PWR073")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -1896,7 +1990,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2a5060c9-d78a-4ce2-a965-2c6f96097dc5")
-		(property "Reference" "R8"
+		(property "Reference" "R21"
 			(at 103.124 68.834 90)
 			(effects
 				(font
@@ -1940,7 +2034,7 @@
 			)
 		)
 		(property "Part Number" "ERA-6AEB103V"
-			(at 99.06 69.85 90)
+			(at 99.06 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1957,7 +2051,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "R8")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -1978,7 +2072,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "30989361-8bde-44c5-b229-3b3e974b3fd5")
-		(property "Reference" "R47"
+		(property "Reference" "R28"
 			(at 220.472 76.454 90)
 			(effects
 				(font
@@ -2039,13 +2133,89 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "R47")
+					(reference "R28")
 					(unit 1)
 				)
 			)
 			(project "Encoder Input"
 				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
 					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 60.96 72.39 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "34808665-f3d0-49c3-9d9a-675ba947fc52")
+		(property "Reference" "R20"
+			(at 65.532 71.374 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5.36k"
+			(at 61.468 74.676 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 60.96 74.168 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+			(at 60.96 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "5.36 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film"
+			(at 60.96 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "RC0805FR-075K36L"
+			(at 60.96 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1cb28d47-8a44-48d0-8133-8899c676e0c9")
+		)
+		(pin "1"
+			(uuid "4e84bcdd-5946-418e-a14b-4df67061877f")
+		)
+		(instances
+			(project "Custom Inverter PCB"
+				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -2060,7 +2230,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "373243ef-e778-4ee4-980c-b7bcb911ca82")
-		(property "Reference" "R45"
+		(property "Reference" "R22"
 			(at 108.712 76.454 90)
 			(effects
 				(font
@@ -2113,15 +2283,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "1cb28d47-8a44-48d0-8133-8899c676e0c9")
+			(uuid "1cb28d47-8a44-48d0-8133-8899c676e0ca")
 		)
 		(pin "1"
-			(uuid "4e84bcdd-5946-418e-a14b-4df67061877f")
+			(uuid "4e84bcdd-5946-418e-a14b-4df670618780")
 		)
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "R45")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -2142,7 +2312,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4d26149d-cdb9-4351-843c-acb75fdf6cc9")
-		(property "Reference" "R18"
+		(property "Reference" "R27"
 			(at 220.472 71.12 90)
 			(effects
 				(font
@@ -2203,7 +2373,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "R18")
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -2225,7 +2395,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52232fee-ead6-4ea0-a4c0-b4cc1ad3801d")
-		(property "Reference" "R9"
+		(property "Reference" "R25"
 			(at 198.12 83.8199 0)
 			(effects
 				(font
@@ -2288,102 +2458,13 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "R9")
+					(reference "R25")
 					(unit 1)
 				)
 			)
 			(project "Encoder Input"
 				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
 					(reference "R?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x04_Socket")
-		(at 26.67 55.88 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "55d1af61-0306-4cb7-bc4a-bb39a92bb8db")
-		(property "Reference" "J6"
-			(at 27.305 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1989764"
-			(at 27.305 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PHOENIX_1989764:PHOENIX_1989764"
-			(at 26.67 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 26.67 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 26.67 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number" "1989764"
-			(at 26.67 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "ea8bcf3a-4f08-406e-9203-9488c9912e85")
-		)
-		(pin "4"
-			(uuid "4a974e84-c485-434c-92ef-a146d90260d9")
-		)
-		(pin "1"
-			(uuid "2975eb7a-632d-43cd-8b5e-4c3cb6b1d982")
-		)
-		(pin "2"
-			(uuid "2b336028-e04a-429f-bd92-c89c787bc661")
-		)
-		(instances
-			(project ""
-				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "J6")
-					(unit 1)
-				)
-			)
-			(project "Encoder Input"
-				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
-					(reference "J?")
 					(unit 1)
 				)
 			)
@@ -2398,7 +2479,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "821f503d-f046-4302-8a4a-d3766d1b2d79")
-		(property "Reference" "R48"
+		(property "Reference" "R26"
 			(at 199.644 71.12 90)
 			(effects
 				(font
@@ -2459,13 +2540,330 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "R48")
+					(reference "R26")
 					(unit 1)
 				)
 			)
 			(project "Encoder Input"
 				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
 					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 55.88 80.01 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "83c32417-e9ad-4bb5-9f89-5c0e97b6c27f")
+		(property "Reference" "#PWR056"
+			(at 55.88 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 55.88 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 55.88 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 55.88 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 55.88 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b2eebfd1-c65a-4393-aa3f-e7afc204bde0")
+		)
+		(instances
+			(project "Custom Inverter PCB"
+				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
+					(reference "#PWR056")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 67.31 72.39 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8504cf60-069a-41e4-b173-5fa416741042")
+		(property "Reference" "#PWR057"
+			(at 63.5 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 71.12 72.3899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 67.31 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 67.31 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 67.31 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6129e294-7a3c-46b6-81bf-2f66d4f6471f")
+		)
+		(instances
+			(project "Custom Inverter PCB"
+				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
+					(reference "#PWR057")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PHOENIX_1990041:1990041")
+		(at 33.02 67.31 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "aecea2e3-6c04-41f8-9a24-ee2fc64c621e")
+		(property "Reference" "J6"
+			(at 39.37 58.674 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1990041"
+			(at 39.116 78.232 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PHOENIX_1990041:PHOENIX_1990041"
+			(at 33.02 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 33.02 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 33.02 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "PHOENIX"
+			(at 33.02 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "1990041"
+			(at 33.02 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a27ff455-7e1d-4aaf-9676-5d57d4d24d2c")
+		)
+		(pin "5"
+			(uuid "580e15fb-916d-4511-842a-d7565c952b68")
+		)
+		(pin "2"
+			(uuid "d5ef2662-3bab-4962-9253-6a55b7a9a07f")
+		)
+		(pin "3"
+			(uuid "42029411-892c-42b6-9d44-da746d394d9a")
+		)
+		(pin "4"
+			(uuid "64465185-e728-4fdf-a069-f9dfc92801bb")
+		)
+		(pin "6"
+			(uuid "35f3afce-f285-43f4-ace9-0c57cadfd5df")
+		)
+		(instances
+			(project "Custom Inverter PCB"
+				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
+					(reference "J6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 198.12 63.5 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b33d1729-308c-45c9-b45b-80f7dc02481a")
+		(property "Reference" "C17"
+			(at 198.12 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 198.12 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 201.93 62.5348 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/kyocera-avx/0805ZD104KAT2A/1603455"
+			(at 198.12 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CAP CER 0.1UF 10V X5R 0805"
+			(at 198.12 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "0805ZD104KAT2A"
+			(at 198.12 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "cc47b244-6487-4a41-b139-5709d65d820f")
+		)
+		(pin "1"
+			(uuid "0595bcf8-406f-4e83-bd45-fe14695e61db")
+		)
+		(instances
+			(project "Custom Inverter PCB"
+				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
+					(reference "C17")
+					(unit 1)
+				)
+			)
+			(project "Encoder Input"
+				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
+					(reference "C?")
 					(unit 1)
 				)
 			)
@@ -2481,7 +2879,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b663b07c-6445-4130-96fc-51f68d8fdcfb")
-		(property "Reference" "R5"
+		(property "Reference" "R24"
 			(at 121.92 82.5499 0)
 			(effects
 				(font
@@ -2544,7 +2942,7 @@
 		(instances
 			(project ""
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "R5")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -2565,7 +2963,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c2f492e9-572c-4dcb-9c65-a777a200d7f2")
-		(property "Reference" "R46"
+		(property "Reference" "R23"
 			(at 115.316 66.04 90)
 			(effects
 				(font
@@ -2626,7 +3024,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "R46")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -2648,7 +3046,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c3fa201b-f859-4ce0-a1f9-9d0060f0f40d")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR053"
 			(at 46.99 31.75 0)
 			(effects
 				(font
@@ -2699,7 +3097,7 @@
 		(instances
 			(project ""
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "#PWR063")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -2720,7 +3118,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c5f81348-6c41-43f7-a033-ab907d83c481")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR058"
 			(at 90.17 71.12 0)
 			(effects
 				(font
@@ -2770,7 +3168,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "#PWR062")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -2818,7 +3216,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "OP292GSZ-REEL"
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/OP292_492.pdf"
 			(at 128.27 67.31 0)
 			(effects
 				(font
@@ -2828,7 +3226,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC OPAMP GP 2 CIRCUIT 8SOIC"
 			(at 128.27 67.31 0)
 			(effects
 				(font
@@ -2895,7 +3293,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d54d656e-fda0-45e4-9ca0-41dcc9ed19d1")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR062"
 			(at 210.82 63.5 0)
 			(effects
 				(font
@@ -2946,7 +3344,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "#PWR072")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -2967,7 +3365,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d705bd47-bdc4-498a-887b-087a8b6396a9")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR063"
 			(at 219.71 72.39 0)
 			(effects
 				(font
@@ -3017,7 +3415,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "#PWR074")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -3031,7 +3429,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 40.64 50.8 270)
+		(at 52.07 62.23 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3039,8 +3437,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f3fdfbf5-e0fa-400f-933d-8ae24188d09d")
-		(property "Reference" "#PWR060"
-			(at 36.83 50.8 0)
+		(property "Reference" "#PWR054"
+			(at 48.26 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3049,7 +3447,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 44.45 50.7999 90)
+			(at 55.88 62.2299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3058,7 +3456,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 40.64 50.8 0)
+			(at 52.07 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3067,7 +3465,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 40.64 50.8 0)
+			(at 52.07 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3076,7 +3474,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 40.64 50.8 0)
+			(at 52.07 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3085,12 +3483,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "6129e294-7a3c-46b6-81bf-2f66d4f6471f")
+			(uuid "6129e294-7a3c-46b6-81bf-2f66d4f64720")
 		)
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "#PWR060")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -3112,7 +3510,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa30ea32-898a-41a4-82c5-193eb207016a")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR052"
 			(at 36.83 27.94 0)
 			(effects
 				(font
@@ -3163,96 +3561,13 @@
 		(instances
 			(project ""
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "#PWR036")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
 			(project "Encoder Input"
 				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
 					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 198.12 63.5 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fadcb6c9-4a64-4fbc-b67e-6c9115693a37")
-		(property "Reference" "C15"
-			(at 198.12 55.88 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 198.12 58.42 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 201.93 62.5348 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.digikey.ca/en/products/detail/kyocera-avx/0805ZD104KAT2A/1603455"
-			(at 198.12 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "CAP CER 0.1UF 10V X5R 0805"
-			(at 198.12 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number" "0805ZD104KAT2A"
-			(at 198.12 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "cc47b244-6487-4a41-b139-5709d65d820f")
-		)
-		(pin "1"
-			(uuid "0595bcf8-406f-4e83-bd45-fe14695e61db")
-		)
-		(instances
-			(project "Custom Inverter PCB"
-				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "C15")
-					(unit 1)
-				)
-			)
-			(project "Encoder Input"
-				(path "/c02282a6-e8fb-408c-8a23-bdc0f42fba47"
-					(reference "C?")
 					(unit 1)
 				)
 			)
@@ -3268,7 +3583,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb62f68d-6dbd-491b-af91-1bcb2853154e")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR060"
 			(at 191.77 63.5 0)
 			(effects
 				(font
@@ -3318,7 +3633,7 @@
 		(instances
 			(project "Custom Inverter PCB"
 				(path "/3e1046b6-e265-4cdd-8404-c358cfc105fe/b97c4033-3e4d-4eed-9d6e-e3e54b51d869"
-					(reference "#PWR061")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
