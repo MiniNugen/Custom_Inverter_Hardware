@@ -2033,6 +2033,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "ERA-6AEB103V"
+			(at 99.06 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a8f08711-10cb-4fea-bee8-f993d29b6256")
 		)

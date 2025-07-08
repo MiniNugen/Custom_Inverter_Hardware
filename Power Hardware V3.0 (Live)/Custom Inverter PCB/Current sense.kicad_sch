@@ -4846,7 +4846,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "TLI4971A050T5E0001XUMA1"
 			(at 132.08 87.63 0)
 			(effects
 				(font
@@ -5312,7 +5312,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "TLI4971A050T5E0001XUMA1"
 			(at 133.35 114.3 0)
 			(effects
 				(font

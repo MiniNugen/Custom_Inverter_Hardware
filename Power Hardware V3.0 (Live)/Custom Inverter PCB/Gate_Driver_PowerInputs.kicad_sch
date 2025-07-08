@@ -6082,6 +6082,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "7461383"
+			(at 24.13 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "f7f139c9-e2c9-4f36-b0a1-9c071c4730e0")
 		)
@@ -6609,6 +6618,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "1990009"
+			(at 93.98 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ded2169c-f959-4e37-8421-1ec4cc987dd5")
 		)
@@ -6673,6 +6691,15 @@
 		)
 		(property "Description" "M5 Screw term"
 			(at 260.35 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "7461383"
+			(at 260.35 130.81 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6786,6 +6813,15 @@
 		)
 		(property "Description" "M5 Screw term"
 			(at 260.35 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "7461383"
+			(at 260.35 123.19 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7675,6 +7711,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "7461383"
+			(at 24.13 34.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "ebeaa3e0-f0b7-49fe-aed1-e4ee5fc7fec3")
 		)
@@ -7847,6 +7892,15 @@
 		)
 		(property "Description" "M5 Screw term"
 			(at 260.35 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "7461383"
+			(at 260.35 115.57 90)
 			(effects
 				(font
 					(size 1.27 1.27)
