@@ -20434,6 +20434,17 @@
 			(uuid "13afb4e5-0027-4eae-a550-3813f5ace76d")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/upsca/Downloads/BAV20WS_TP/CR_SOD-323_MCC.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "B.Cu")
@@ -21100,7 +21111,7 @@
 		(uuid "61f565a4-6fc6-4676-ab4b-7a8be86bbd3a")
 		(at 115.189 125.984 -90)
 		(property "Reference" "U5"
-			(at -10.18 32.585 180)
+			(at -10.18 32.585 0)
 			(layer "B.SilkS")
 			(uuid "fd99e8c0-8c01-40b0-8fbe-9956503b2a53")
 			(effects
@@ -22888,6 +22899,50 @@
 			(uuid "3b5d49b0-daba-4f08-bd42-5a8d4b0f4207")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/upsca/Downloads/010897202_stp/010897202.stp"
+			(offset
+				(xyz -21.5 16 1)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
+			)
+		)
+		(model "C:/Users/upsca/Downloads/010897202_stp/010897202.stp"
+			(offset
+				(xyz -21.5 -47.5 1)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
+			)
+		)
+		(model "C:/Users/upsca/Downloads/010897202_stp/010897202.stp"
+			(offset
+				(xyz 21.5 -47.5 1)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
+			)
+		)
+		(model "C:/Users/upsca/Downloads/010897202_stp/010897202.stp"
+			(offset
+				(xyz 21.5 16 1)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
+			)
+		)
 	)
 	(footprint "DRV8300DIPWR:TSSOP_0DIPWR_TEX"
 		(layer "B.Cu")
@@ -25539,6 +25594,17 @@
 			(uuid "ff680a18-6aef-464d-b2b9-ce6509ee5fd5")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/upsca/Downloads/BAV20WS_TP/CR_SOD-323_MCC.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "BAV20WS-TP:CR_SOD-323_MCC"
 		(layer "B.Cu")
@@ -25976,6 +26042,17 @@
 			(uuid "43e26f08-3136-4875-9f02-1e16d1ca3395")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/upsca/Downloads/BAV20WS_TP/CR_SOD-323_MCC.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "B.Cu")

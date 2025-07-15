@@ -139,7 +139,6 @@
 			(psnegative no)
 			(psa4output no)
 			(plot_black_and_white yes)
-			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(plotpadnumbers no)
 			(hidednponfab no)
@@ -2221,6 +2220,17 @@
 			(uuid "6f355dca-cf04-4355-8f2f-01d4456c352a")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/upsca/Downloads/DRV8300DIPWR/PW0020A.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
@@ -3435,6 +3445,17 @@
 			(uuid "aa68fe97-b5fa-4329-bb81-c661c96ca3cd")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/upsca/Downloads/L78M05CDT_TR/L78M05CDT-TR.step"
+			(offset
+				(xyz 0 -2 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -90)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
@@ -4333,6 +4354,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "C:/Users/upsca/Downloads/0463030_ER (1)/FUSE_0463_LTF.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
@@ -10624,6 +10656,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "C:/Users/upsca/Downloads/0463030_ER (1)/FUSE_0463_LTF.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "2P term 1990009:PHOENIX_1990009"
 		(layer "F.Cu")
@@ -14148,6 +14191,17 @@
 			(uuid "97b7e2a1-d280-400a-8cbc-d62392623dad")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/upsca/Downloads/ul_OP292GSZ-REEL/R_8_ADI.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
@@ -15575,6 +15629,17 @@
 			(uuid "dd924b48-b012-4341-aa74-3a6fa004ccf4")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/upsca/Downloads/BAV20WS_TP/CR_SOD-323_MCC.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "PHOENIX_1990041:PHOENIX_1990041"
 		(layer "F.Cu")
@@ -17515,6 +17580,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "C:/Users/upsca/Downloads/0463030_ER (1)/FUSE_0463_LTF.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "M5 Screw Term 7461383:WP-SHFU_7461383"
 		(layer "F.Cu")
@@ -18802,6 +18878,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "C:/Users/upsca/Downloads/0463030_ER (1)/FUSE_0463_LTF.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
@@ -22290,6 +22377,17 @@
 			(uuid "724372c4-1c0b-4a77-b3ac-a0de81d768c6")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/upsca/Downloads/BAV20WS_TP/CR_SOD-323_MCC.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
@@ -26174,6 +26272,17 @@
 			(uuid "da93821b-0269-4fc0-bc9a-d139e41f33f1")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/upsca/Downloads/LD1085D2M33R.STEP"
+			(offset
+				(xyz 0 -2.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -90)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -27235,7 +27344,7 @@
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
+					(thickness 0.125)
 				)
 			)
 		)
@@ -27280,6 +27389,17 @@
 			(uuid "346ab65d-725c-4f05-8f61-83f93137924e")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/upsca/Downloads/BAV20WS_TP/CR_SOD-323_MCC.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -30819,6 +30939,50 @@
 			(uuid "2503a756-befb-41b2-a081-b9712672bef0")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/upsca/Downloads/010897202_stp/010897202.stp"
+			(offset
+				(xyz 21.5 16 1)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
+			)
+		)
+		(model "C:/Users/upsca/Downloads/010897202_stp/010897202.stp"
+			(offset
+				(xyz 21.5 -47.5 1)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
+			)
+		)
+		(model "C:/Users/upsca/Downloads/010897202_stp/010897202.stp"
+			(offset
+				(xyz -21.5 -47.5 1)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
+			)
+		)
+		(model "C:/Users/upsca/Downloads/010897202_stp/010897202.stp"
+			(offset
+				(xyz -21.5 16 1)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "B.Cu")
